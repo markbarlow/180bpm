@@ -418,3 +418,40 @@ body {
 }
 
 
+
+div#boxes {
+/*   original version
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+    */ 
+      display: block; 
+      position: relative;  
+}
+
+div#boxone {
+    border: 1px solid green;
+    width: 300px;
+    float: left;
+    height: 305px; 
+    display: block; 
+}
+div#boxtwo {
+    border: 1px solid blue;
+    padding-left: 10px;
+    width: 60%;
+    float: right;
+/*    height: 100px;  */
+    display: block; 
+}
+@media (max-width: 767px) {
+    div#boxone {
+        width: 100%;
+    }
+    div#boxtwo {
+        width: 100%;
+    }
+}
+
+
