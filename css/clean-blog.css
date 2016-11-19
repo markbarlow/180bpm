@@ -432,9 +432,9 @@ div#boxes {
 
 div#boxone {
     border: 1px solid green;
-    width: 300px;
+    width: 295px;
     float: left;
-    height: 305px; 
+    height: 295px; 
     display: block; 
 }
 div#boxtwo {
