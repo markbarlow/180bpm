@@ -430,14 +430,14 @@ div#boxes {
       position: relative;  
 }
 
-div#boxone {
+div#boxonebc {
     border: 1px solid green;
     width: 295px;
     float: left;
     height: 295px; 
     display: block; 
 }
-div#boxtwo {
+div#boxtwobc {
     border: 1px solid blue;
     padding-left: 10px;
     width: 60%;
@@ -445,6 +445,23 @@ div#boxtwo {
 /*    height: 100px;  */
     display: block; 
 }
+
+div#boxone50 {
+    border: 0px;
+    width: 50%;
+    float: left; 
+    display: block; 
+}
+div#boxtwo50 {
+    border: 0px;
+    /* padding-left: 10px; */
+    width: 50%;
+    float: right;
+    display: block; 
+}
+
+
+
 @media (max-width: 767px) {
     div#boxone {
         width: 100%;
@@ -455,3 +472,8 @@ div#boxtwo {
 }
 
 
+/* Add this to centre the image, rest of css is in bootstrap */
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
+}
