@@ -445,6 +445,14 @@ div#boxtwobc {
 /*    height: 100px;  */
     display: block; 
 }
+@media (max-width: 767px) {
+    div#boxonebc {
+        width: 100%;
+    }
+    div#boxtwobc {
+        width: 100%;
+    }
+}
 
 div#boxone50 {
     border: 0px;
@@ -460,13 +468,11 @@ div#boxtwo50 {
     display: block; 
 }
 
-
-
 @media (max-width: 767px) {
-    div#boxone {
+    div#boxone50 {
         width: 100%;
     }
-    div#boxtwo {
+    div#boxtwo50 {
         width: 100%;
     }
 }
