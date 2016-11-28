@@ -483,3 +483,19 @@ div#boxtwo50 {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.change-icon > .fa + .fa,
+.change-icon:hover > .fa {
+  display: none;
+}
+.change-icon:hover > .fa + .fa {
+  display: inherit;
+}
+
+/* maybe not...
+.fa-fw {
+  width: 1.3em;
+  text-align: center;
+}
+*/
