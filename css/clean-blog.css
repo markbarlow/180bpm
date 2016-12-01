@@ -357,7 +357,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   border-radius: 0;
-  padding: 15px 25px;
+  padding: 15px 35px;
   background-color: #0085a1;
   border: 1px solid #0085a1;
   color: white;
@@ -498,4 +498,12 @@ div#boxtwo50 {
   width: 1.28em;
   text-align: center;
 }
+
+
+/* Colour the circles blue rather than default grey black */
+.fa-circle {
+  color:#0085a1;
+}
+
+
 
