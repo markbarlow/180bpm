@@ -270,7 +270,7 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 50px 0 65px;
+  padding: 40px 0 65px;
 }
 footer .list-inline {
   margin: 0;
@@ -362,6 +362,14 @@ form .row:first-child .floating-label-form-group {
   border: 1px solid #0085a1;
   color: white;
 }
+.btnblue-default:hover,
+.btnblue-default:focus {
+  background-color: white;
+  border: 1px solid #404040;
+  color: #404040;
+}
+
+
 .btnsmalltext {
   font-size: 10.5px;
   font-weight: normal;
@@ -485,15 +493,19 @@ div#boxtwo50 {
 }
 
 
-.change-icon > .fa + .fa,
-.change-icon:hover > .fa {
+
+/* try this instead for changing font awesome icons on hover */
+/*--- FontAwesome Enhancement ---*/
+* > .fa.fa-hover-show,
+*:hover > .fa.fa-hover-hidden {
   display: none;
 }
-.change-icon:hover > .fa + .fa {
-  display: inherit;
+*:hover > .fa.fa-hover-show {
+  display: inline-block;
 }
 
-/* maybe not... */
+
+/* fix the width to allow for slight differences in size */
 .fa-fw {
   width: 1.28em;
   text-align: center;
@@ -506,4 +518,17 @@ div#boxtwo50 {
 }
 
 
+.donator a {
+  font-size:18px;
+}
 
+
+.panel-title-smaller {
+  font-size: 20px;
+}
+
+/* if you want to underline the panel link 
+span a {
+  text-decoration: underline;
+}
+*/
