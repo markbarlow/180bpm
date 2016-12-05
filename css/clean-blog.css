@@ -369,12 +369,24 @@ form .row:first-child .floating-label-form-group {
   color: #404040;
 }
 
-
 .btnsmalltext {
   font-size: 10.5px;
   font-weight: normal;
   text-transform: none;
 }
+button.right-responsive {
+  margin-left: 10px;
+}
+
+@media (max-width: 767px) {
+button.right-responsive {
+  margin-left: 0px;
+  margin-top: 10px;
+  }
+}
+
+
+
 .pager {
   margin: 20px 0 0;
 }
