@@ -524,9 +524,16 @@ div#boxtwo50 {
 }
 
 
-/* Colour the circles blue rather than default grey black */
-.fa-circle {
+/* Colour the circles blue rather than default grey black and change on hover
+Set a reverse style to use on any links for this */
+
+a.reversed {
   color:#0085a1;
+}
+
+a.reversed:hover,
+a.reversed:focus {
+  color: #404040;
 }
 
 
