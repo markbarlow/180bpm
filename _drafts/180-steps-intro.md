@@ -1,4 +1,4 @@
-# For intro post on 180 experience; from presentation
+# For intro post on 180 experience from presentation
 
 Intro
 
@@ -9,8 +9,8 @@ Put your hand up if you do any cycling, swimming or some other exercise?
 
 *My running start & the concept*
 
-So I started running in 2015
-Like many middle aged people, wanted to get some exercise and cling on to the last vestiges of youthful vigour
+So I started running in January 2015
+Like many middle aged people, I wanted to get some exercise and fool myself that I was clinging on to the last vestiges of youthful vigour.
 I soon got into it, and after a few months of running I came across this concept that 180 steps per minute is the optimal running rhythm
 This originates in studies of the 1984 Olympics that found that all the most successful middle and long distance runners ran at around 180 steps per minute
 It has since trickled down to all levels as a goal to aim for to help you
@@ -31,7 +31,7 @@ Benefits:
 1.  Not as tired or achey
 2.  Helped me go further
 3.  Helped me go faster
-4.  Easier to change direction and avoid puddles or tourists
+4.  Easier to change direction and avoid puddles - or tourists randomly stepping out in front of you *without looking*
 
 Needless to say, I heartily recommend it
 
@@ -39,8 +39,7 @@ Needless to say, I heartily recommend it
 
 So what I’d like you to do in the next few week is the following:
 If you’re a runner, try 180 steps per minute, or failing that just try increasing cadence by 10% - it will help
-If you do a different sport, try to find the equivalent. In swimming, for example, people aim for the fewest strokes per length, almost the opposite of running.
-And if you don’t do any sport, the next time you run for a bus think: 180 steps per minute – and you might just catch it
+
 
 
 And more on the theme:
