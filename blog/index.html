@@ -1,17 +1,56 @@
 ---
-layout: default
-title: My blog
+layout: 180default
+title: 180 steps per minute - running blog
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	
 
-	  {% for post in paginator.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-	  {% endfor %}
-	</ul>
+   <!-- Page Header -->
+    <!-- Set your background image for this header on the line below -->
+    <header class="intro-header" style="background-image: url('{{ site.baseurl }}/img/jjvico65-6.jpg')">
+        <div class="container">
+             <div class="row">
+
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>180 beats per minute</h1>
+                        <hr class="small">
+                        <h2 class="subheading">Blog</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+
+    <!-- Start posts list -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+               {% for post in paginator.posts %}
+                <div class="post-preview">
+                    <a href=""{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"">
+                        <h2 class="post-title">
+                            {{ post.title }}
+                        </h2>
+                        <h3 class="post-subtitle">
+                            {{ post.excerpt | strip_html }}
+                        </h3>
+                    </a>
+                    <p class="post-meta">Posted on {{ post.date | date: '%B %-d, %Y' }}  </p>
+                </div>
+                <hr>
+              {% endfor %}
+                <!-- Pager -->
+                <ul class="pager">
+                    <li class="next">
+                        <a href="#">Older Posts &rarr;</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- end posts list -->
 
 
 

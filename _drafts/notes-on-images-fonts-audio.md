@@ -5,12 +5,12 @@
 
 
      jjvico like:
-     1 (ticker without sufficient contract) - maybe for music artwork?
-     6 (the herd) - good for blog maybe as represents many?
-     7 (solo shoe, better than 4) - centering is good for mobile too
+     7 (solo shoe, better than 4) - centering is good for mobile too; in use on homepage
+     6 (the herd) - good for blog maybe as represents many? in use for Credits
+     9b (two shoes) decent but not centred for mobile - definitely use though goes with 7 very well; in use on music apps page
      4 (alternate solo shoe, currently in contact.html unused page), decent contrast especially if turn off the centering in the style sheet.
-     9b (two shoes) decent but not centred for mobile - definitely use though goes with 7 very well
-     8 (colourful ticker only) ok for subsidiary page / success page after got the picture of running but not as good as 8 which has feet too
+    1 (ticker without sufficient contract) - maybe for music artwork?
+     8 (colourful ticker only) ok for subsidiary page / success page after got the picture of running but not as good as 1 which has feet too
 
      DTS1,2,3 all tried - DTS 3 is the winner for mobile centering reasons. DTS 2 is a spare option for any track related pages
 
@@ -20,7 +20,7 @@
 
      Still using clean-blog css instead of min.css on this page only, and same for bootstrap.css
 
-    TO DECIDE: LEFT aligin is best for the title decided. if keeping hr then added margin: 0px; and changed from 100px to 33% - need to either find a good middle ground or lose it entirely;
+    TO DECIDE: LEFT align is best for the title decided. if keeping hr then added margin: 0px; and changed from 100px to 33% - need to either find a good middle ground or lose it entirely;
 
 	#################   FONT AWESOME
 	 http://fontawesome.io/icons/
