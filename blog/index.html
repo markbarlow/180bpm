@@ -41,16 +41,57 @@ title: 180 steps per minute - running blog
                 </div>
                 <hr>
               {% endfor %}
-                <!-- Pager -->
+                <!-- original pager 
                 <ul class="pager">
                     <li class="next">
                         <a href="#">Older Posts &rarr;</a>
                     </li>
+                                        <li class="next">
+                        <a href="#">Test &rarr;</a>
+                    </li>
                 </ul>
+                 end original pager -->
+                <!-- start dynamic pager -->
+                {% if paginator.total_pages > 1 %}
+                    <ul class="pager">
+                      {% if paginator.previous_page %}
+                        <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous</a></li>
+                      {% else %}
+                        <!-- no previous -->
+                      {% endif %}
+
+
+                     {% for page in (1..paginator.total_pages) %}
+                     <ul class="pagination pagination-sm">
+                        {% if page == paginator.page %}
+                          <li class="active"><a href="#">{{ page }}</a></li>
+                        {% elsif page == 1 %}
+                          <li><a href="{{ '/blog/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+                        {% else %}
+                          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                        {% endif %}
+                      </ul>
+                      {% endfor %}
+                     
+
+                      {% if paginator.next_page %}
+                        <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &rarr;</a></li>
+                      {% else %}
+                        <!-- no next -->
+                      {% endif %}
+                    </ul>
+                {% endif %}
+                <!-- end dynamic pager -->
             </div>
         </div>
     </div>
     <!-- end posts list -->
+
+
+
+
+<!-- or this - this works at /blog/ but not at /blog/index.html oddly -->
+
 
 
 
@@ -98,33 +139,3 @@ l -->
 </div>
 {% endif %}
 -->
-
-
-<!-- or this - this works at /blog/ but not at /blog/index.html oddly -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/blog/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
-

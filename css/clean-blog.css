@@ -415,6 +415,47 @@ button.right-responsive {
   background-color: #404040;
   cursor: not-allowed;
 }
+
+.pagination {
+  margin: 20px 0 0;
+}
+.pagination li > a,
+.pagination li > span {
+  color: #404040;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  padding: 15px 25px;
+  background-color: white;
+  border-radius: 0;
+}
+.pagination li > a:hover,
+.pagination li > a:focus {
+  color: white;
+  background-color: #0085a1;
+  border: 1px solid #0085a1;
+}
+.pagination .disabled > a,
+.pagination .disabled > a:hover,
+.pagination .disabled > a:focus,
+.pagination .disabled > span {
+  color: #808080;
+  background-color: #404040;
+  cursor: not-allowed;
+}
+.pagination .active > a,
+.pagination .active > a:hover,
+.pagination .active > a:focus,
+.pagination .active > span {
+  color: white;
+  background-color: #0085a1;
+  cursor: not-allowed;
+}
+
+
+
 ::-moz-selection {
   color: white;
   text-shadow: none;
