@@ -1,4 +1,24 @@
 
+
+# what got me running
+
+Did I choose running or did running choose me
+
+realisation that I was no longer doing any exercise whatsoever
+admitting that my football days were basically over, with family responsibilities I couldn't commit to a full Saturday (as in the old days) or even a regular Friday night (the only option I had left). And being uncommitted, as anyone who's played knows, leads to being unselected
+for the first time in my life, working in an office with showers which was also right by a park
+the wonderfully impromptu, just-get-out-and-do-it nature of running - needing no arrangements, no scheduling, little to no equipment (or so I thought...), and available more or less wherever you go at any time of year
+
+being obliged to do cross country at senior school for 3 years, and a brief flirtation with athletics and the http://www.liverpoolharriers.co.uk/ Liverpool harriers that lasted no more than a year. That was almost 30 years ago.
+
+I'll let you into a secret: despite extolling the virutes of running, for a long time I thought that, all things being equal, given a choice I would play football rather than run. I liked the adrenaline, the unpredicability, the social side of the team sport. At first it was as if running chose me, rather than I chose running, on the basis of feasibility. But then recently, on two separate occasions I had the chance to play a one-off 5-a-side game - and turned it down. I had a race coming up, and didn't want to jeapordise it with an injury. I've also slowly come to the conclusion that in relative terms I'm a better runner than footballer, and probably should have done more when I was young. So: the tide is turning.
+
+
+https://www.flickr.com/search/?license=2%2C3%2C4%2C5%2C6%2C9&safe_search=1&advanced=1&text=runner%20fog
+https://www.flickr.com/photos/maxwellgs/4425856227/
+https://www.flickr.com/photos/mrfraley/6814871923/
+
+
 # books
 
 murakami review
@@ -6,13 +26,6 @@ murakami review
 # apps
 
 apps runkeeper and strava; 
-
-# doubling up
-
-taking on two x half and possibly two x mara;
-Read it so you don't have to
-
-
 
 
 
@@ -74,6 +87,45 @@ There was another one here… aggravating an old injury? Hamstring example too f
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 This is one, as is the ‘read it so you don’t have to’ on  successive marathons which is also body or mind related; for that one add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Importatnt if youre minimising impact on family or others
+
+# doubling up
+
+taking on two x half and possibly two x mara;
+Read it so you don't have to
+
+
+
+# cross training
+
+(related to above....)
+I've never had time for cross-training. Part of the reason I run is the ability to do so without much planning, fitted in whenever an opportunity arises, and alternative activities don't generally offer that. Plus the limited time I have I try to use running  - generally falling behind on any training plan as it is -  and there's not any spare to do other exercise. 
+
+The first problem, I'll admit, is I wasn't sure what it meant. Did it mean using one of those "cross-training" machines in a gym, or just training in a different type of activity to your usual one? I eventually figured out it's the latter, but that one of those alternate activities may in fact be using a cross-training machine. Kind of cross-training to the power of two. 
+
+
+​# running in rain
+Blog - the rewards of running in the rain. Let's not pretend it's easy getting out of the house. Excuses come more readily. Old injuries ache. Especially in winter. But when do : the solidarity omerta everyone says hello in city where often don't that makes a difference. Fewer people. Fewer dogs and long leads.
+Achievement sense. Once get going get Coccooned and spurs on for speed.
+
+# pre-race chat
+Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
+
+# marathon get what you put in, unusually direct
+Blog - marathon reflections. The second half feeling of strength - get what you put in. Rare so direct a relationship effort and reward. A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
+
+# segments
+parkland walk, in two parts and the history as site of landspeed record (after drinks, 1 in morning, at time of Blair Witch and feeling suggestible). Talking Bluebird, not Bolt. 
+Liverpool prom
+Malaga docks and beach - I love a seaside one
+Swansea also
+Hyde park loop 3 park loop
+
+
+# up and down
+
+injury and illness in training
+not a straight line improvement 
+
 
 
 
