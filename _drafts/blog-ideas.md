@@ -45,14 +45,6 @@ shoe reviews
  socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neutral;
 
 
-# stretching
-
-Stretching flossing analogy 
-When forced to do it 
-
-
-Have I tried a foam roller? Yes, after physio for the hamstring I have. Do I do that often? No. It's more commonly used as a 'robotic arm' by the kids.
-
 
 # gym and recovery 
 

@@ -3,7 +3,7 @@ layout: 180blogpost
 title: Template conversion test post
 subheading: Subheading text for the h2 in the header
 excerpt: This is the custom excerpt taken from YAML front matter
-heroimage: blog-metronome.png
+heroimage: DTS-3.jpg
 ---
 
 

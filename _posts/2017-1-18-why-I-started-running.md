@@ -11,8 +11,10 @@ heroimage: blog-runner2.png
 <p>So what was it that made this particular run different? Looking back, there were a few different reasons I think:</p>
 
 * The realisation that I was no longer doing any exercise whatsoever
+* The chance to listen to some music, something else I was no longer doing very much
 * Admitting that my football days were basically over. With family responsibilities I couldn't commit to a full Saturday (as in the old days) or even a regular Friday night (the only option I had left). And being uncommitted, as anyone who's played knows, soon leads to being unselected
-* For the first time in my life, I found myself working in an office with showers which was also situated right next to a park. Well, three parks in fact. And then it turned out there was a drying room too
+* For the first time in my life, finding myself working in an office with showers which was also situated right next to a park. Well, three parks in fact. And then it turned out there was a drying room too
+* Running apps making the whole thing more interesting
 * The wonderfully impromptu, just-get-out-and-do-it nature of running - needing no arrangements, no scheduling, no monthly fees, little to no equipment (or so I thought...), and available more or less wherever you go at any time of year
 
 

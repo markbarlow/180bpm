@@ -20,7 +20,7 @@
      jjvico65-5 (crowd legs barca) is ok but not as impactful as previous.
      Maidenhead (currently in post.html) ok but not as sharp, could be for a blog post style one 
 
-     Still using clean-blog css instead of min.css on this page only, and same for bootstrap.css
+    
 
     
 	#################   FONT AWESOME
