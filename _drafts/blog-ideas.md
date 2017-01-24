@@ -88,6 +88,8 @@ Blog - swim in your own lane. One upmanship. Always someone faster. Talent train
 # marathon get what you put in, unusually direct
 Blog - marathon reflections. The second half feeling of strength - get what you put in. Rare so direct a relationship effort and reward. A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
 
+Input output, effort reward
+
 # segments
 parkland walk, in two parts and the history as site of landspeed record (after drinks, 1 in morning, at time of Blair Witch and feeling suggestible). Talking Bluebird, not Bolt. This photo of parkland walk is great https://www.flickr.com/photos/barryj/3502677676/
 Liverpool prom
