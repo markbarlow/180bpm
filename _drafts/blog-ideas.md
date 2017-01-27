@@ -9,6 +9,34 @@ murakami review
 # apps
 
 apps runkeeper and strava; 
+There's no doubt running apps helped me get into running, and make it a lot more interesting. There's a lot of them out there, but I use Runkeeper and Strava - here's why.
+
+All of the apps have tracking, maps, stats and some motivational features. They also have their own algorithms for smoothing out GPS points, deciding how often to request a point, dealing with the curvature of the earth, and so on which will explain differences in distance calculations despite using the same GPS source. For a short time I tried runs with both Runkeeper and Strava tracking my activity at the same time, to compare the measurement - with a view to sticking with the one I thought was better. It was inconclusive, at worst there was a 10% variance, but it was never a case of one always thinking you'd run further than the other. 
+
+In the end I decided to use Runkeeper as my main app, but to also periodically send the data to Strava via tapirik. 
+
+So what was it about Runkeeper?
+1. The audio prompts, which offered the most flexibility - for example you can set them by time, by duration or by a combination of both; and if you really want to you can have a drill instructor voice barking at you when you drop below your target pace
+2. The free training plans, which I've found to be very good (if hard to follow religiously).  In time they got me through my first half marathon and first marathon
+3. The ability to fix GPS errors using the web site. And remember, if you succumb to the temptation to use this feature to try and boost your distance or speed,you're only fooling yourself... I use this only occasionally, but it does come in useful to fix problems like this one (Liverpool image)
+
+
+I've also since discovered that their customer service is excellent. (embed tweet?)
+
+
+And equally, why bother sending the data to strava too?
+1. For the social features, especially as when I started running it was part of a collective team effort to rack up some miles
+2. I have a few keen cyclist friends, who are all on there
+3. The segments feature is clever and a lot of fun, from time to time I take a look at that. It reminds me of foursquare, but requiring a lot more effort to get a crown than just checking in somewhere every day
+
+
+
+measurement 
+https://www.flickr.com/photos/chap_d/16362223225/
+https://www.flickr.com/photos/areta_e/5727742070/
+https://www.flickr.com/photos/quinnanya/4508825094/
+https://www.flickr.com/photos/bandfan/5548675317/ - laods of tape
+
 
 
 
@@ -81,6 +109,10 @@ The first problem, I'll admit, is I wasn't sure what it meant. Did it mean using
 ​# running in rain
 Blog - the rewards of running in the rain. Let's not pretend it's easy getting out of the house. Excuses come more readily. Old injuries ache. Especially in winter. But when do : the solidarity omerta everyone says hello in city where often don't that makes a difference. Fewer people. Fewer dogs and long leads.
 Achievement sense. Once get going get Coccooned and spurs on for speed.
+
+check creative commons on these two:
+https://www.flickr.com/photos/ukimmeru/4385775251/
+https://www.flickr.com/photos/chill114/7420663264/
 
 # pre-race chat
 Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
