@@ -40,7 +40,6 @@ And equally, why bother sending the data to strava too?
 
 
 measurement 
-https://www.flickr.com/photos/chap_d/16362223225/
 https://www.flickr.com/photos/areta_e/5727742070/
 https://www.flickr.com/photos/quinnanya/4508825094/
 https://www.flickr.com/photos/bandfan/5548675317/ - laods of tape
