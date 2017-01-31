@@ -13,6 +13,7 @@
      8 (colourful ticker only) ok for subsidiary page / success page after got the picture of running but not as good as 1 which has feet too
 
      blog-runner2.png is a beauty, dark with light patches
+     blog-tape1.png is another good tape one, not useed yet, credit to https://www.flickr.com/photos/areta_e/5727742070/
 
      DTS1,2,3 all tried - DTS 3 is the winner for mobile centering reasons. DTS 2 is a spare option for any track related pages
 
@@ -21,6 +22,8 @@
      Maidenhead (currently in post.html) ok but not as sharp, could be for a blog post style one 
 
     
+
+
 
     
 	#################   FONT AWESOME
