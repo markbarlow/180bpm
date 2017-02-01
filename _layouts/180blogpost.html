@@ -90,9 +90,38 @@
 
    
                 <hr>
+
+
+
+<!-- next/prev links with text -->
+                    <div style="margin-bottom: 70px;">
+                    {% if page.previous.url %}
+                    <span style="float:left;">&larr; <a href="{{ site.baseurl }}/{{page.previous.url}}">{{page.previous.title}}</a></span>
+                    {% endif %}
+
+                    {% if page.next.url %}
+                    <span style="float:right;"><a href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}}</a> &rarr;</span>
+                    {% endif %}
+                    </div>
+<!-- end next/prev links with text -->
+
+
+
+<!-- next/prev buttons
+                    <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous"><a href="{{page.previous.url}}">&larr; Previous</a></li>
+                    {% endif %}
+
+                    {% if page.next.url %}
+                    <li class="next"><a href="{{page.next.url}}">Next &rarr;</a></li>
+                    {% endif %}
+                    </ul>
+ end next/prev buttons -->
+
                 <div class="pagination-center">
                      <ul class="pagination pagination-sm">
-                        <li><a href="{{ site.baseurl }}/blog/index.html">More posts</a></li>
+                        <li><a href="{{ site.baseurl }}/blog/index.html">All posts</a></li>
                      </ul>
                 </div>
 

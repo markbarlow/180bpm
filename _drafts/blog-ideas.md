@@ -57,13 +57,19 @@ There was another one here… aggravating an old injury? Hamstring example too f
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For all <a href="https://twitter.com/hashtag/running?src=hash">#running</a> niggles and injuries the answer seems to be swimming. Ligaments? swim. Hamstring? swim. Calf? swim. Bored? swim.</p>&mdash; Mark Barlow (@markbarlow) <a href="https://twitter.com/markbarlow/status/804321638401658880">December 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
-This is one, as is the ‘read it so you don’t have to’ on  successive marathons which is also body or mind related; for that one add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Importatnt if youre minimising impact on family or others
+
+
+https://www.flickr.com/photos/demandaj/4648807772/ - too small? Try resizing?
+https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
 # doubling up
 
 taking on two x half and possibly two x mara;
-Read it so you don't have to
+Read it so you don't have to on  successive marathons which is also body or mind related; 
+add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others
 
+
+https://www.flickr.com/photos/rutlo/4576724332/
 
 
 # cross training
@@ -85,10 +91,16 @@ https://www.flickr.com/photos/chill114/7420663264/
 # pre-race chat
 Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
 
+
+
 # marathon get what you put in, unusually direct
 Blog - marathon reflections. The second half feeling of strength - get what you put in. Rare so direct a relationship effort and reward. A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
 
-Input output, effort reward
+Input output, effort reward, reap what you sow
+
+Other metaphor for this, visual? Filling the tank
+
+
 
 # segments
 parkland walk, in two parts and the history as site of landspeed record (after drinks, 1 in morning, at time of Blair Witch and feeling suggestible). Talking Bluebird, not Bolt. This photo of parkland walk is great https://www.flickr.com/photos/barryj/3502677676/

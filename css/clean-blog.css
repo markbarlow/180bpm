@@ -419,6 +419,7 @@ button.right-responsive {
 
 .pagination-center {
         text-align: center;
+        clear: both;
     }
     .pagination-center ul {
         display: inline-block;
