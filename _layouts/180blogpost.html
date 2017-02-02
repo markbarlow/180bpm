@@ -3,13 +3,10 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
+ 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
 
     <!-- Bootstrap Core CSS -->
     <link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet">
@@ -165,16 +162,14 @@
                         </li>
                     </ul>				
 
-                    <!-- donator -->             
+                    <!-- Atom feed -->             
                      <div class="text-center donator">        
                     <p> 
-				   	<i class="fa fa-coffee fa-hover-hidden fa-fw"></i>
-				   	<i class="fa fa-heart fa-hover-show fa-fw" style="color:#b70e25"></i>
-                    <!-- this has donate link in -->
-				    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">Coffee contribution?</a>
+				   	<i class="fa fa-rss fa-fw"></i>
+				   	 <a href="{{ site.baseurl }}/atom.xml">Blog feed</a>
 				   	</p>
 				   	</div>      
-					<!-- end donator -->
+					<!-- end Atom feed -->
 
                     <p class="copyright text-muted">Copyright &copy; 2017</p>
 
@@ -192,6 +187,9 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ site.baseurl }}/js/clean-blog.min.js"></script>
+
+<!-- GA -->
+  {% include analytics.html %}
 
 </body>
 
