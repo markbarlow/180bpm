@@ -1,14 +1,14 @@
 ---
-layout: feed
+layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>180 steps per minute running blog</title>
-	<link href="http://markbarlow.co.uk/jekyll-now/atom.xml" rel="self"/>
-	<link href="http://markbarlow.co.uk/jekyll-now/blog.html"/>
+	<link href="http://www.180steps.co.uk/atom.xml" rel="self"/>
+	<link href="http://www.180steps.co.uk/blog/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://markbarlow.co.uk/jekyll-now/blog</id>
+	<id>http://www.180steps.co.uk/blog/</id>
 	<author>
 		<name>Mark Barlow</name>
 		<email>findmeontwitter@twitter.com</email>
@@ -17,9 +17,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://markbarlow.co.uk/jekyll-now{{ post.url }}"/>
+			<link href="http://www.180steps.co.uk{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://markbarlow.co.uk/jekyll-now{{ post.id }}</id>
+			<id>http://www.180steps.co.uk{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
