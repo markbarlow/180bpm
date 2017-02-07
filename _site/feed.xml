@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/180steps/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/180steps/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/180steps/" rel="alternate" type="text/html" /><updated>2017-02-03T17:59:25+00:00</updated><id>http://localhost:4000/180steps//</id><title type="html">180 steps per minute</title><subtitle>running music and blog</subtitle><entry><title type="html">Runkeeper, Strava and running apps</title><link href="http://localhost:4000/180steps/blog/2017/01/27/running-apps-runkeeper-strava" rel="alternate" type="text/html" title="Runkeeper, Strava and running apps" /><published>2017-01-27T00:00:00+00:00</published><updated>2017-01-27T00:00:00+00:00</updated><id>http://localhost:4000/180steps/blog/2017/01/27/running-apps-runkeeper-strava</id><content type="html" xml:base="http://localhost:4000/180steps/blog/2017/01/27/running-apps-runkeeper-strava">&lt;p&gt;There’s no doubt running apps make the whole business more interesting and helped me get into running. There’s a lot of them out there, but I use &lt;a href=&quot;http://www.runkeeper.com&quot;&gt;Runkeeper&lt;/a&gt; and &lt;a href=&quot;http://www.strava.com&quot;&gt;Strava&lt;/a&gt;- here’s why.&lt;/p&gt;
+
+&lt;p&gt;Pretty much all of the apps out there have tracking, maps, stats and some motivational features. They also have their own algorithms for smoothing out GPS points, deciding how often to request a point, dealing with the curvature of the earth, and so on - which explains differences in their distance calculations, despite using the same GPS source from your device.&lt;/p&gt;
+
+&lt;p&gt;For a short time I tried runs with both Runkeeper and Strava tracking my activity at the same time, to compare the measurement - with a view to sticking with the one I thought was better. It was inconclusive: at worst there was a 10% variance, but it was never a case of one always thinking you’d run further than the other. In the end I decided to use Runkeeper as my main app, but to also periodically send the data to Strava via &lt;a href=&quot;https://tapiriik.com/&quot;&gt;tapiriik&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So what was it about Runkeeper which made the difference for me?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The audio prompts, which offered the most flexibility - for example you can set them by time, by duration or by a combination of both; and if you really want to you can have a drill instructor voice barking at you when you drop below your target pace&lt;/li&gt;
+  &lt;li&gt;The free training plans, which I’ve found to be very good (if hard to follow religiously).  In time they got me through my first half marathon and first marathon&lt;/li&gt;
+  &lt;li&gt;The ability to fix GPS errors using the web site. I use this only occasionally, but it does come in useful to fix problems like this one below,(Liverpool image) which will skew your averages and so on. And remember, if you succumb to the temptation to use this feature to try and boost your distance or speed, you’re only fooling yourself…&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/180steps/img/blog-runkeeper-river.png&quot; alt=&quot;A diversion into the river Mersey&quot; /&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;A diversion into the river Mersey&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve also since discovered that their customer service is excellent - both on email and twitter - and they have a sense of humour too.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/markbarlow&quot;&gt;@markbarlow&lt;/a&gt; That sounds odd, sorry about that! Try a safe reinstall following these steps: &lt;a href=&quot;https://t.co/gmJ49xeIYr&quot;&gt;https://t.co/gmJ49xeIYr&lt;/a&gt;.&lt;/p&gt;&amp;mdash; Runkeeper Support (@RKSupport) &lt;a href=&quot;https://twitter.com/RKSupport/status/600702862977413120&quot;&gt;May 19, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet tw-align-center&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;tl&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/markbarlow&quot;&gt;@markbarlow&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Runkeeper&quot;&gt;@Runkeeper&lt;/a&gt; bagkeeper!&lt;/p&gt;&amp;mdash; Erin Glabets (@ErinGlabets) &lt;a href=&quot;https://twitter.com/ErinGlabets/status/697896997228036096&quot;&gt;February 11, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;And equally, why bother sending the data to strava too?&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;For the social features, especially as when I started running it was part of a collective team effort to rack up some miles&lt;/li&gt;
+  &lt;li&gt;I have a few keen cyclist friends, who are all on there&lt;/li&gt;
+  &lt;li&gt;The segments feature is clever and a lot of fun, from time to time I take a look at that. It reminds me of foursquare, but requiring more effort to get a crown than just checking in somewhere every day&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; photo by &lt;a href=&quot;https://www.flickr.com/photos/quinnanya/&quot;&gt;Quinn Dombrowski&lt;/a&gt;&lt;/p&gt;</content><summary type="html">There's no doubt running apps make the whole business more interesting and helped me get into running. There's a lot of them out there, but I use Runkeeper and Strava - here's why</summary></entry><entry><title type="html">Learning to stretch</title><link href="http://localhost:4000/180steps/blog/2017/01/21/stretching" rel="alternate" type="text/html" title="Learning to stretch" /><published>2017-01-21T00:00:00+00:00</published><updated>2017-01-21T00:00:00+00:00</updated><id>http://localhost:4000/180steps/blog/2017/01/21/stretching</id><content type="html" xml:base="http://localhost:4000/180steps/blog/2017/01/21/stretching">&lt;p&gt;A few years ago, my dentist told me I should start flossing. I gave it a brief go, but found it a hassle and it made brushing the teeth take longer, so I didn't stick with it. I was reminded several times over the next few visits to the dentist, and ignored those reminders. Until, that is, I needed root canal treatment. Since then I've flossed regularly.&lt;/p&gt;
+
+&lt;p&gt;My experience with stretching is similar. I initially took the view that the first 5 minutes of a run was for stretching, and afterwards there was never time for much more than a cursory stretch left and right before getting showered and changed. I kept coming across articles recommending stretching, and kept ignoring them. Until, that is, I strained my hamstring.&lt;/p&gt;
+
+&lt;p&gt;I went to see a physio, who got me going on some exercises and recommended using a foam roller. Youtube is also full of videos showing &lt;a href=&quot;https://www.youtube.com/watch?v=vG_SZ6o2hD0&quot;&gt;hamstring stretches&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=DGIBHcREljk&quot;&gt;massages&lt;/a&gt; that will help you recover. As it was a recurring problem, I've carried some of these through into every run now. I don't go to town with it, but a little before and a little after seems to have helped keep the problem at bay. &lt;/p&gt;
+
+&lt;p&gt;The key, I'm told, is to make sure you hold the positions for a good while. And also, take it easy beforehand -  a rapid fire succession of to-the-limit stretches could be detrimental, and may cause exactly what you're trying to avoid.&lt;/p&gt;
+
+&lt;p&gt;As for the foam roller? Well, it gets the odd look in, but not often. It's more commonly used as a 'robotic arm'.&lt;/p&gt;
+
+&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; photo by &lt;a href=&quot;https://www.flickr.com/photos/92135602@N08/&quot;&gt;Flyfishtography&lt;/a&gt;&lt;/p&gt;</content><summary type="html">A few years ago, my dentist told me I should start flossing. I gave it a brief go, but found it a hassle</summary></entry><entry><title type="html">Why I started running</title><link href="http://localhost:4000/180steps/blog/2017/01/18/why-I-started-running" rel="alternate" type="text/html" title="Why I started running" /><published>2017-01-18T00:00:00+00:00</published><updated>2017-01-18T00:00:00+00:00</updated><id>http://localhost:4000/180steps/blog/2017/01/18/why-I-started-running</id><content type="html" xml:base="http://localhost:4000/180steps/blog/2017/01/18/why-I-started-running">&lt;p&gt;In January 2015, with little thought or planning, I went for a lunchtime run. This turned out to be the point I started regular running. Before then I had completed a grand total of one run in each of the previous two years. Going much further back, I was obliged to do the occasional cross country run at senior school for the first 4 years, and had a brief flirtation with athletics and the &lt;a href=&quot;http://www.liverpoolharriers.co.uk/&quot;&gt;Liverpool harriers&lt;/a&gt; that lasted no more than a year. But that was almost 30 years ago.&lt;/p&gt;
+
+&lt;p&gt;So what was it that made this particular run different? Looking back, there were a few different reasons I think:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The realisation that I was no longer doing any exercise whatsoever&lt;/li&gt;
+  &lt;li&gt;The chance to listen to some music, something else I was no longer doing very much&lt;/li&gt;
+  &lt;li&gt;Admitting that my football days were basically over. With family responsibilities I couldn’t commit to a full Saturday (as in the old days) or even a regular Friday night (the only option I had left). And being uncommitted, as anyone who’s played knows, soon leads to being unselected&lt;/li&gt;
+  &lt;li&gt;For the first time in my life, finding myself working in an office with showers which was also situated right next to a park. Well, three parks in fact. And then it turned out there was a drying room too&lt;/li&gt;
+  &lt;li&gt;A team challenge at work to collectively walk, run or cycle a total of 3,000 kilometres - the distance a colleague would be travelling to her wedding in Nigeria in the summer&lt;/li&gt;
+  &lt;li&gt;Running apps making the whole thing more interesting&lt;/li&gt;
+  &lt;li&gt;The wonderfully impromptu, just-get-out-and-do-it nature of running - needing no arrangements, no scheduling, no monthly fees, little to no equipment (or so I thought…), and available more or less wherever you go at any time of year&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I'll let you into a secret: despite often extolling the virtues of running, as in that last bullet point, for a long time I thought that - all things being equal - given a choice I would still play football rather than run. I liked the adrenaline, the unpredicability, the social side of the team sport. At first it was as if running chose me, rather than I chose running, on the basis of feasibility.&lt;/p&gt;
+
+&lt;p&gt;But then recently, on two separate occasions I had the chance to play a one-off 5-a-side game - and turned it down. I had a race coming up, and didn't want to jeapordise it with an injury. I've also come to the conclusion that in relative terms I'm a better runner than footballer, and probably should have done more when I was young. &lt;/p&gt;
+
+&lt;p&gt;So, after a couple of years, the tide is turning.&lt;/p&gt;
+
+&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; running photo by &lt;a href=&quot;https://www.flickr.com/photos/blachswan/&quot;&gt;Ed Dunens&lt;/a&gt;&lt;/p&gt;</content><summary type="html">In January 2015, with little thought or planning, I went for a lunchtime run. This turned out to be the point I started regular running.</summary></entry><entry><title type="html">180 steps at a time</title><link href="http://localhost:4000/180steps/blog/2017/01/18/180-steps-intro" rel="alternate" type="text/html" title="180 steps at a time" /><published>2017-01-18T00:00:00+00:00</published><updated>2017-01-18T00:00:00+00:00</updated><id>http://localhost:4000/180steps/blog/2017/01/18/180-steps-intro</id><content type="html" xml:base="http://localhost:4000/180steps/blog/2017/01/18/180-steps-intro">&lt;p&gt;When I &lt;a href=&quot;/180steps/blog/2017/01/18/why-I-started-running&quot;&gt;started running&lt;/a&gt;, like many middle aged people, I wanted to get some exercise and cling on to the last vestiges of youthful vigour.
+I soon got into it, and after a few months of running I came across the idea that 180 steps per minute is the optimal running rhythm.&lt;/p&gt;
+
+&lt;p&gt;This originates in a &lt;a href=&quot;http://running.competitor.com/2014/07/training/make-a-high-stride-rate-work-for-you_54957&quot;&gt;study of middle distance runners at the 1984 Olympics,&lt;/a&gt; by coach Jack Daniels. He counted the stride rate of all the athletes running 800 metres or more, and found that all but one ran at least 180 steps per minute (and the one that didn't hit 176). Yet as a coach he had never come across a student running above 180. So the magic number of 180 steps per minute was born.&lt;/p&gt;
+
+&lt;p&gt;Like all research, there is further research which corroborates this and some which counters it. But what is generally agreed is that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Running with a faster cadence can improve your performance and reduce the risk of injury&lt;/li&gt;
+&lt;li&gt;180 steps per minute is a great bar to aim for, but if it is too high start by measuring your cadence and aiming to increase it by 5 to 10%&lt;/li&gt;
+&lt;li&gt;Running with a consistent cadence is also important, and something top runners aim for. In the 2011 Boston marathon, Desiree Davila and Caroline Kilel both held a 180-190 rate as they battled to the finish, and there are countless more examples&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Putting the theory to the test&lt;/h2&gt;
+
+&lt;p&gt;I'd read enough to be convinced it was worth a try. Using &lt;a href=&quot;http://www.runkeeper.com&quot;&gt;Runkeeper&lt;/a&gt;, I found my previous runs were around 140 spm, and with the help of a metronome I started trying to increase them to 180.&lt;/p&gt;
+
+&lt;p&gt;The way to do this was not just to go straight out and increase the rate, but to first shorten the length of the stride in order to help achieve that. It felt strange at first, as if I was taking baby steps - but at the rate of Roadrunner from the cartoons. But it soon became a comfortable rhythm, and with shorter steps your legs gain less height and extension - and therefore you create less impact when hitting the ground, helping your calves, your hamstrings, your ankles and your knees.&lt;/p&gt;
+
+&lt;p&gt;Overall, here's the benefits I've enjoyed from this change of cadence:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Not as tired or achey after runs&lt;/li&gt;
+  &lt;li&gt;Helped me go further&lt;/li&gt;
+  &lt;li&gt;Helped me go faster&lt;/li&gt;
+  &lt;li&gt;Easier to change direction and avoid puddles, ice or tourists randomly stepping out in front of you &lt;em&gt;without looking&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Needless to say, I heartily recommend taking a look at your cadence and aiming for either a 10% increase, the magical 180 steps per minute, or even more. &lt;/p&gt;
+
+&lt;blockquote&gt;Fitter people have a little longer stride, but the rate stays the same&lt;br /&gt; - Jack Daniels, coach&lt;/blockquote&gt;
+
+&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; metronome photo by &lt;a href=&quot;https://www.flickr.com/photos/90353061@N00/&quot;&gt;Charles B. Owen&lt;/a&gt;&lt;/p&gt;</content><summary type="html">When I started running, I wanted to get some exercise and cling on to the last vestiges of youthful vigour.</summary></entry></feed>
