@@ -22,6 +22,8 @@ School gala
 Scallies at kirkby
 Rae and Davies
 
+The gradual build up of ronhill - hat for winter training, shorts and socks for first marathon, two, three, four, jacket...
+
 The Iffley van
 First encounter
 Price shock beyond budget but seed sown
@@ -62,6 +64,25 @@ There was another one here… aggravating an old injury? Hamstring example too f
 https://www.flickr.com/photos/demandaj/4648807772/ - too small? Try resizing?
 https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
+
+
+# cross training
+
+(related to above....)
+
+Like some running version of <a href="https://en.wikipedia.org/wiki/Godwin's_law">Godwin's law</a>, the more running articles you read it becomes increasingly inevitable that someone, somewhere will pop up and recommend cross training. 
+
+The first problem I had with cross training, I'll admit, is I wasn't sure what it meant. Did it mean using one of those "cross-training" machines in a gym, or just training in a different type of activity to your usual one? I eventually figured out it's the latter, but that one of those alternate activities may in fact involve using a cross-training machine. Kind of cross-training to the power of two. 
+
+In normal circumstances, I never have time for cross-training. Part of <a href="">the reason I run</a> is the ability to do so without much planning, fitted in whenever an opportunity arises, and alternative activities don't generally offer that. Plus the limited time I have, I try to use running  - generally falling behind on any training plan as it is -  and there's not any spare time to do other exercise. 
+
+The exception is when an injury prevents me from running at a time when I've already signed up for something - that's when I enter this strange world in an attempt to keep up fitness levels and sense of progress.
+
+
+swimming:
+https://www.flickr.com/photos/ilfogliani/14167726879/
+
+
 # doubling up
 
 taking on two x half and possibly two x mara;
@@ -72,17 +93,12 @@ add in my own tips about refunds, postage of the packs, injury attitude, when se
 https://www.flickr.com/photos/rutlo/4576724332/
 
 
-# cross training
-
-(related to above....)
-I've never had time for cross-training. Part of the reason I run is the ability to do so without much planning, fitted in whenever an opportunity arises, and alternative activities don't generally offer that. Plus the limited time I have I try to use running  - generally falling behind on any training plan as it is -  and there's not any spare to do other exercise. 
-
-The first problem, I'll admit, is I wasn't sure what it meant. Did it mean using one of those "cross-training" machines in a gym, or just training in a different type of activity to your usual one? I eventually figured out it's the latter, but that one of those alternate activities may in fact be using a cross-training machine. Kind of cross-training to the power of two. 
-
 
 ​# running in rain
-Blog - the rewards of running in the rain. Let's not pretend it's easy getting out of the house. Excuses come more readily. Old injuries ache. Especially in winter. But when do : the solidarity omerta everyone says hello in city where often don't that makes a difference. Fewer people. Fewer dogs and long leads.
+Blog - the rewards of running in the rain. Let's not pretend it's easy getting out of the house. Excuses come more readily. Old injuries ache. Especially in winter. Any old minor niggle will suddently act like it's an old scar, sensitive to the changes in moisture. But when do : the solidarity omerta everyone says hello in city where often don't that makes a difference. Fewer people. Fewer dogs and long leads.
 Achievement sense. Once get going get Coccooned and spurs on for speed.
+
+Discussed with a colleague who runs, told me once he gets out he sometimes lifts his arms to the skies shouting "Is that all you've got?!". A touch of the runner's high there, I suspect.
 
 check creative commons on these two:
 https://www.flickr.com/photos/ukimmeru/4385775251/

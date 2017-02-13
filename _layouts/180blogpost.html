@@ -93,11 +93,11 @@
 <!-- next/prev links with text -->
                     <div style="margin-bottom: 70px;">
                     {% if page.previous.url %}
-                    <span style="float:left;">&larr; <a href="{{ site.baseurl }}/{{page.previous.url}}">{{page.previous.title}}</a></span>
+                    <span style="float:left;">&larr; <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></span>
                     {% endif %}
 
                     {% if page.next.url %}
-                    <span style="float:right;"><a href="{{ site.baseurl }}/{{page.next.url}}">{{page.next.title}}</a> &rarr;</span>
+                    <span style="float:right;"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a> &rarr;</span>
                     {% endif %}
                     </div>
 <!-- end next/prev links with text -->

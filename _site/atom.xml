@@ -4,7 +4,7 @@
 	<title>180 steps per minute running blog</title>
 	<link href="http://www.180steps.co.uk/atom.xml" rel="self"/>
 	<link href="http://www.180steps.co.uk/blog/"/>
-	<updated>2017-02-03T17:59:25+00:00</updated>
+	<updated>2017-02-13T10:09:31+00:00</updated>
 	<id>http://www.180steps.co.uk/blog/</id>
 	<author>
 		<name>Mark Barlow</name>
@@ -14,9 +14,9 @@
 	
 		<entry>
 			<title>Runkeeper, Strava and running apps</title>
-			<link href="http://www.180steps.co.uk/blog/2017/01/27/running-apps-runkeeper-strava"/>
-			<updated>2017-01-27T00:00:00+00:00</updated>
-			<id>http://www.180steps.co.uk/blog/2017/01/27/running-apps-runkeeper-strava</id>
+			<link href="http://www.180steps.co.uk/blog/2017/02/04/running-apps-runkeeper-strava"/>
+			<updated>2017-02-04T00:00:00+00:00</updated>
+			<id>http://www.180steps.co.uk/blog/2017/02/04/running-apps-runkeeper-strava</id>
 			<content type="html">&lt;p&gt;There’s no doubt running apps make the whole business more interesting and helped me get into running. There’s a lot of them out there, but I use &lt;a href=&quot;http://www.runkeeper.com&quot;&gt;Runkeeper&lt;/a&gt; and &lt;a href=&quot;http://www.strava.com&quot;&gt;Strava&lt;/a&gt;- here’s why.&lt;/p&gt;
 
 &lt;p&gt;Pretty much all of the apps out there have tracking, maps, stats and some motivational features. They also have their own algorithms for smoothing out GPS points, deciding how often to request a point, dealing with the curvature of the earth, and so on - which explains differences in their distance calculations, despite using the same GPS source from your device.&lt;/p&gt;
@@ -30,7 +30,7 @@
   &lt;li&gt;The ability to fix GPS errors using the web site. I use this only occasionally, but it does come in useful to fix problems like this one below,(Liverpool image) which will skew your averages and so on. And remember, if you succumb to the temptation to use this feature to try and boost your distance or speed, you’re only fooling yourself…&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/180steps/img/blog-runkeeper-river.png&quot; alt=&quot;A diversion into the river Mersey&quot; /&gt;
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/blog-runkeeper-river.png&quot; alt=&quot;A diversion into the river Mersey&quot; /&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;A diversion into the river Mersey&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;I’ve also since discovered that their customer service is excellent - both on email and twitter - and they have a sense of humour too.&lt;/p&gt;
@@ -54,9 +54,9 @@
 	
 		<entry>
 			<title>Learning to stretch</title>
-			<link href="http://www.180steps.co.uk/blog/2017/01/21/stretching"/>
-			<updated>2017-01-21T00:00:00+00:00</updated>
-			<id>http://www.180steps.co.uk/blog/2017/01/21/stretching</id>
+			<link href="http://www.180steps.co.uk/blog/2017/02/01/stretching"/>
+			<updated>2017-02-01T00:00:00+00:00</updated>
+			<id>http://www.180steps.co.uk/blog/2017/02/01/stretching</id>
 			<content type="html">&lt;p&gt;A few years ago, my dentist told me I should start flossing. I gave it a brief go, but found it a hassle and it made brushing the teeth take longer, so I didn't stick with it. I was reminded several times over the next few visits to the dentist, and ignored those reminders. Until, that is, I needed root canal treatment. Since then I've flossed regularly.&lt;/p&gt;
 
 &lt;p&gt;My experience with stretching is similar. I initially took the view that the first 5 minutes of a run was for stretching, and afterwards there was never time for much more than a cursory stretch left and right before getting showered and changed. I kept coming across articles recommending stretching, and kept ignoring them. Until, that is, I strained my hamstring.&lt;/p&gt;
@@ -69,6 +69,46 @@
 
 &lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; photo by &lt;a href=&quot;https://www.flickr.com/photos/92135602@N08/&quot;&gt;Flyfishtography&lt;/a&gt;&lt;/p&gt;
 
+</content>
+		</entry>
+	
+		<entry>
+			<title>180 steps at a time</title>
+			<link href="http://www.180steps.co.uk/blog/2017/01/28/180-steps-intro"/>
+			<updated>2017-01-28T00:00:00+00:00</updated>
+			<id>http://www.180steps.co.uk/blog/2017/01/28/180-steps-intro</id>
+			<content type="html">&lt;p&gt;When I &lt;a href=&quot;/blog/2017/01/18/why-I-started-running&quot;&gt;started running&lt;/a&gt;, like many middle aged people, I wanted to get some exercise and cling on to the last vestiges of youthful vigour.
+I soon got into it, and after a few months of running I came across the idea that 180 steps per minute is the optimal running rhythm.&lt;/p&gt;
+
+&lt;p&gt;This originates in a &lt;a href=&quot;http://running.competitor.com/2014/07/training/make-a-high-stride-rate-work-for-you_54957&quot;&gt;study of middle distance runners at the 1984 Olympics,&lt;/a&gt; by coach Jack Daniels. He counted the stride rate of all the athletes running 800 metres or more, and found that all but one ran at least 180 steps per minute - and the one that didn't hit 176. Yet as a coach he had never come across a student running above 180. So the magic number of 180 steps per minute was born.&lt;/p&gt;
+
+&lt;p&gt;Like all research, there is further research which corroborates this and some which counters it. But what is generally agreed is that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Running with a faster cadence can improve your performance and reduce the risk of injury&lt;/li&gt;
+&lt;li&gt;180 steps per minute is a great bar to aim for, but if it is too high start by measuring your cadence and aiming to increase it by 5 to 10%&lt;/li&gt;
+&lt;li&gt;Running with a consistent cadence is also important, and something top runners aim for. In the 2011 Boston marathon, Desiree Davila and Caroline Kilel both held a 180-190 rate as they battled to the finish, and there are countless more examples&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Putting the theory to the test&lt;/h2&gt;
+
+&lt;p&gt;I'd read enough to be convinced it was worth a try. Using &lt;a href=&quot;http://www.runkeeper.com&quot;&gt;Runkeeper&lt;/a&gt;, I found my previous runs were around 140 spm, and with the help of a metronome I started trying to increase them to 180.&lt;/p&gt;
+
+&lt;p&gt;The way to do this was not just to go straight out and increase the rate, but to first shorten the length of the stride in order to help achieve that. It felt strange at first, as if I was taking baby steps - but at the rate of Roadrunner from the cartoons. But it soon became a comfortable rhythm, and with shorter steps your legs gain less height and extension - and therefore you create less impact when hitting the ground, helping your calves, your hamstrings, your ankles and your knees.&lt;/p&gt;
+
+&lt;p&gt;Overall, here's the benefits I've enjoyed from this change of cadence:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Not as tired or achey after runs&lt;/li&gt;
+  &lt;li&gt;Helped me go further&lt;/li&gt;
+  &lt;li&gt;Helped me go faster&lt;/li&gt;
+  &lt;li&gt;Easier to change direction and avoid puddles, ice or tourists randomly stepping out in front of you &lt;em&gt;without looking&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Needless to say, I heartily recommend taking a look at your cadence and aiming for either a 10% increase, the magical 180 steps per minute, or even more. &lt;/p&gt;
+
+&lt;blockquote&gt;Fitter people have a little longer stride, but the rate stays the same&lt;br /&gt; - Jack Daniels, coach&lt;/blockquote&gt;
+
+&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; metronome photo by &lt;a href=&quot;https://www.flickr.com/photos/90353061@N00/&quot;&gt;Charles B. Owen&lt;/a&gt;&lt;/p&gt;
 </content>
 		</entry>
 	
@@ -99,46 +139,6 @@
 
 &lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; running photo by &lt;a href=&quot;https://www.flickr.com/photos/blachswan/&quot;&gt;Ed Dunens&lt;/a&gt;&lt;/p&gt;
 
-</content>
-		</entry>
-	
-		<entry>
-			<title>180 steps at a time</title>
-			<link href="http://www.180steps.co.uk/blog/2017/01/18/180-steps-intro"/>
-			<updated>2017-01-18T00:00:00+00:00</updated>
-			<id>http://www.180steps.co.uk/blog/2017/01/18/180-steps-intro</id>
-			<content type="html">&lt;p&gt;When I &lt;a href=&quot;/180steps/blog/2017/01/18/why-I-started-running&quot;&gt;started running&lt;/a&gt;, like many middle aged people, I wanted to get some exercise and cling on to the last vestiges of youthful vigour.
-I soon got into it, and after a few months of running I came across the idea that 180 steps per minute is the optimal running rhythm.&lt;/p&gt;
-
-&lt;p&gt;This originates in a &lt;a href=&quot;http://running.competitor.com/2014/07/training/make-a-high-stride-rate-work-for-you_54957&quot;&gt;study of middle distance runners at the 1984 Olympics,&lt;/a&gt; by coach Jack Daniels. He counted the stride rate of all the athletes running 800 metres or more, and found that all but one ran at least 180 steps per minute (and the one that didn't hit 176). Yet as a coach he had never come across a student running above 180. So the magic number of 180 steps per minute was born.&lt;/p&gt;
-
-&lt;p&gt;Like all research, there is further research which corroborates this and some which counters it. But what is generally agreed is that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Running with a faster cadence can improve your performance and reduce the risk of injury&lt;/li&gt;
-&lt;li&gt;180 steps per minute is a great bar to aim for, but if it is too high start by measuring your cadence and aiming to increase it by 5 to 10%&lt;/li&gt;
-&lt;li&gt;Running with a consistent cadence is also important, and something top runners aim for. In the 2011 Boston marathon, Desiree Davila and Caroline Kilel both held a 180-190 rate as they battled to the finish, and there are countless more examples&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Putting the theory to the test&lt;/h2&gt;
-
-&lt;p&gt;I'd read enough to be convinced it was worth a try. Using &lt;a href=&quot;http://www.runkeeper.com&quot;&gt;Runkeeper&lt;/a&gt;, I found my previous runs were around 140 spm, and with the help of a metronome I started trying to increase them to 180.&lt;/p&gt;
-
-&lt;p&gt;The way to do this was not just to go straight out and increase the rate, but to first shorten the length of the stride in order to help achieve that. It felt strange at first, as if I was taking baby steps - but at the rate of Roadrunner from the cartoons. But it soon became a comfortable rhythm, and with shorter steps your legs gain less height and extension - and therefore you create less impact when hitting the ground, helping your calves, your hamstrings, your ankles and your knees.&lt;/p&gt;
-
-&lt;p&gt;Overall, here's the benefits I've enjoyed from this change of cadence:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Not as tired or achey after runs&lt;/li&gt;
-  &lt;li&gt;Helped me go further&lt;/li&gt;
-  &lt;li&gt;Helped me go faster&lt;/li&gt;
-  &lt;li&gt;Easier to change direction and avoid puddles, ice or tourists randomly stepping out in front of you &lt;em&gt;without looking&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Needless to say, I heartily recommend taking a look at your cadence and aiming for either a 10% increase, the magical 180 steps per minute, or even more. &lt;/p&gt;
-
-&lt;blockquote&gt;Fitter people have a little longer stride, but the rate stays the same&lt;br /&gt; - Jack Daniels, coach&lt;/blockquote&gt;
-
-&lt;p class=&quot;photocredit text-muted&quot;&gt;&lt;i class=&quot;fa fa-creative-commons fa-fw&quot;&gt;&lt;/i&gt; metronome photo by &lt;a href=&quot;https://www.flickr.com/photos/90353061@N00/&quot;&gt;Charles B. Owen&lt;/a&gt;&lt;/p&gt;
 </content>
 		</entry>
 	
