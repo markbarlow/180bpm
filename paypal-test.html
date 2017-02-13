@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>180 steps per minute - paypal test – 180 steps per minute – running music and blog</title>
+    <title>180 steps per minute - paypal test</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -117,8 +117,17 @@
   <h2>Modal Options</h2>
   <p>The backdrop option specifies whether the modal should have a dark overlay (the background color of the current page) or not.</p>
   <!-- Trigger the modal with a button -->
-  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button>
+  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button><br>
+  <A href="#myModal" data-toggle="modal">Try triggering with a link</A>
+
+   <Br>
+  Also check out modal-sm in styles, applied to div class = modal-dialog modal-sm
+
+    .modal-sm {
+    width: 300px;
+  }
  
+ - add your own mid size? large is there too
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
@@ -136,8 +145,8 @@
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="N2A34VZN6BG3Q">
 
-<input type="hidden" name="on0" value="Pick a donation">Pick an amount:
-<p><select name="os0">
+<input type="hidden" name="on0" value="Pick a donation">Amount:<br> 
+<select name="os0">
     <option value="Ten pence">Ten pence £0.10 GBP</option>
     <option value="Twenty pence">Twenty pence £0.20 GBP</option>
 </select> 
@@ -150,8 +159,9 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<hr>
 <!-- donate link instead -->
-<div><p>Or <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
+<div><p>If you prefer, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
 
         </div>
         <div class="modal-footer">
