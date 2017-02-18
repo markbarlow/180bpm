@@ -132,7 +132,13 @@ injury and illness in training
 not a straight line improvement 
 
 
+# more gear - the fitbelt
 
+Compare entry-level Karrimor
+
+Doesn't stay on the hip, but doesn't bounce
+6 energy gels, 2 in the pouch plus flapjacks
+small card/money pocket
 
 
 
