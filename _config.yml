@@ -29,7 +29,7 @@ url: http://www.180steps.co.uk
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
+# and NOT your User repository (http://yourusername.github.io) or a custom domain
 # then add in the baseurl here, like this: "/repository-name"
 # baseurl: "/180steps"
 
@@ -79,6 +79,6 @@ exclude:
 encoding: utf-8
 
 # Pagination setting from http://jekyllrb.com/docs/pagination/
-paginate: 3
+paginate: 4
 paginate_path: "/blog/page:num/"
 
