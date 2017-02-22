@@ -10,6 +10,9 @@ murakami review
 
 # the gear trio
 
+the slippery slope
+need vs want
+
 The triumvirate of Iffley Asics Ronhill
 The nostalgia of Ronhill
 Vest
@@ -48,7 +51,7 @@ shoe reviews
 
 Body or mind mistake
  
-Gym rule broken necessity
+Gym rule broken necessity. Almost like a self-inflicted punishment for my folly.
 
 The rule why? minimum 1 year subscriptions and all the tales of wasted. Emerged from the dark ages but still kept away. This one was pay as you go so let myself off. But still as sat on a cycle machine there were pictures on the wall of  - literally - the road and park just outside.
  
@@ -56,8 +59,7 @@ Desperate times desperate measures
 
 There was another one here… aggravating an old injury? Hamstring example too from last time. And swimming tweet embed:
  
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For all <a href="https://twitter.com/hashtag/running?src=hash">#running</a> niggles and injuries the answer seems to be swimming. Ligaments? swim. Hamstring? swim. Calf? swim. Bored? swim.</p>&mdash; Mark Barlow (@markbarlow) <a href="https://twitter.com/markbarlow/status/804321638401658880">December 1, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
  
 
 
@@ -65,22 +67,6 @@ https://www.flickr.com/photos/demandaj/4648807772/ - too small? Try resizing?
 https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
 
-
-# cross training
-
-(related to above....)
-
-Like some running version of <a href="https://en.wikipedia.org/wiki/Godwin's_law">Godwin's law</a>, the more running articles you read it becomes increasingly inevitable that someone, somewhere will pop up and recommend cross training. 
-
-The first problem I had with cross training, I'll admit, is I wasn't sure what it meant. Did it mean using one of those "cross-training" machines in a gym, or just training in a different type of activity to your usual one? I eventually figured out it's the latter, but that one of those alternate activities may in fact involve using a cross-training machine. Kind of cross-training to the power of two. 
-
-In normal circumstances, I never have time for cross-training. Part of <a href="">the reason I run</a> is the ability to do so without much planning, fitted in whenever an opportunity arises, and alternative activities don't generally offer that. Plus the limited time I have, I try to use running  - generally falling behind on any training plan as it is -  and there's not any spare time to do other exercise. 
-
-The exception is when an injury prevents me from running at a time when I've already signed up for something - that's when I enter this strange world in an attempt to keep up fitness levels and sense of progress.
-
-
-swimming:
-https://www.flickr.com/photos/ilfogliani/14167726879/
 
 
 # doubling up
