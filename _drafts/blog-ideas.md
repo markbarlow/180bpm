@@ -1,6 +1,15 @@
 
+-----
+Link format:
+{{ site.baseurl }}{% post_url 2017-1-18-why-I-started-running %}
 
+Image size:
+1900x448
 
+Twitter center:
+class="twitter-tweet tw-align-center"
+
+-----
 
 # books
 
