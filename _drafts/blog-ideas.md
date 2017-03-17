@@ -104,6 +104,7 @@ Blog - swim in your own lane. One upmanship. Always someone faster. Talent train
 
 
 
+
 # marathon get what you put in, unusually direct
 Blog - marathon reflections. The second half feeling of strength - get what you put in. Rare so direct a relationship effort and reward. A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
 
@@ -112,6 +113,20 @@ Input output, effort reward, reap what you sow
 Other metaphor for this, visual? Filling the tank
 
 
+Second marathon: 
+build up, 10 days leading in no run apart from a 15 mins the day before
+Fast start over-compensated, sowed the seeds of suffering
+This time, from the half way point a struggle, not that boost of strength
+Learn the hard way
+
+
+# up and down
+
+the slings and arrows of training fortune
+injury and illness in training
+not a straight line improvement 
+First two marathons - 1 week injury (hamstring; ankle sprain), 1 week winter cold, 1 week cold in last week
+
 
 # segments
 parkland walk, in two parts and the history as site of landspeed record (after drinks, 1 in morning, at time of Blair Witch and feeling suggestible). Talking Bluebird, not Bolt. This photo of parkland walk is great https://www.flickr.com/photos/barryj/3502677676/
@@ -119,12 +134,8 @@ Liverpool prom
 Malaga docks and beach - I love a seaside one
 Swansea also
 Hyde park loop 3 park loop
+Barcelona shore sun is rising (notes on phone I think)
 
-
-# up and down
-
-injury and illness in training
-not a straight line improvement 
 
 
 # more gear - the fitbelt
