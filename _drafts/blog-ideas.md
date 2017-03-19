@@ -1,13 +1,18 @@
 
 -----
 Link format:
-{{ site.baseurl }}{% post_url 2017-1-18-why-I-started-running %}
+<a href="{{ site.baseurl }}{% post_url 2017-1-18-why-I-started-running %}">link</a>
 
 Image size:
 1900x448
 
 Twitter center:
 class="twitter-tweet tw-align-center"
+
+
+Images not used yet:
+- blog-shoe
+- those starting IMG from iphone, not cropped yet
 
 -----
 
@@ -52,7 +57,7 @@ arte sana whatever....
 shoe reviews
 
 
- socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neutral;
+socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neutral;
 
 
 
@@ -66,12 +71,10 @@ The rule why? minimum 1 year subscriptions and all the tales of wasted. Emerged 
  
 Desperate times desperate measures
 
-There was another one here… aggravating an old injury? Hamstring example too from last time. And swimming tweet embed:
+There was another one here… aggravating an old injury? Hamstring example too from last time. 
  
 
  
-
-
 https://www.flickr.com/photos/demandaj/4648807772/ - too small? Try resizing?
 https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
@@ -84,8 +87,10 @@ taking on two x half and possibly two x mara;
 Read it so you don't have to on  successive marathons which is also body or mind related; 
 add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others
 
+double trouble
 
-https://www.flickr.com/photos/rutlo/4576724332/
+https://www.flickr.com/photos/rutlo/4576724332/ - marathon sign
+https://www.flickr.com/photos/ramonduran/280107804/in/photolist-7U2Z4Q-6jcJBn-9koLsp-877zUf-qKChU-ejC9TY-4R4x3N-553qhG-877jAQ-4RVUMn-6jcJBz-66K9iG-DXaAE-9LjKv4-aj5jzK-8PfWHd-62awZC-3Mthec-7Z9b5e-bxzJeg - double rainbow
 
 
 
@@ -103,29 +108,6 @@ https://www.flickr.com/photos/chill114/7420663264/
 Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
 
 
-
-
-# marathon get what you put in, unusually direct
-Blog - marathon reflections. The second half feeling of strength - get what you put in. Rare so direct a relationship effort and reward. A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
-
-Input output, effort reward, reap what you sow
-
-Other metaphor for this, visual? Filling the tank
-
-
-Second marathon: 
-build up, 10 days leading in no run apart from a 15 mins the day before
-Fast start over-compensated, sowed the seeds of suffering
-This time, from the half way point a struggle, not that boost of strength
-Learn the hard way
-
-
-# up and down
-
-the slings and arrows of training fortune
-injury and illness in training
-not a straight line improvement 
-First two marathons - 1 week injury (hamstring; ankle sprain), 1 week winter cold, 1 week cold in last week
 
 
 # segments
