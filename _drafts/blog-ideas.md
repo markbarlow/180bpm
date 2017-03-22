@@ -83,6 +83,10 @@ https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
 # doubling up
 
+
+Many articles, you can find an opinion to suit your own needs. 
+Doesn't seem to be a sweet spot where you have enough recovery and maintain your endurance levels - you're going to lose out on one or the other.
+
 taking on two x half and possibly two x mara;
 Read it so you don't have to on  successive marathons which is also body or mind related; 
 add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others

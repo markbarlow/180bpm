@@ -1,7 +1,7 @@
 ---
 layout: 180blogpost
 title: A tale of two marathons
-subheading: You reap what you sow
+subheading: Input output, you reap what you sow
 excerpt: 
 heroimage: blog-shoe.png
 ---
@@ -25,9 +25,9 @@ TODO: links; image - what about a composite of photos from both? split screen st
 <h2 class="section-heading">The marathon</h2>
 
 
-<p>There were obvious differences in the type of race - the Thames Meander a low key trail marathon and Barcelona the full closed-road cheering crowds job  - but here I'm more interested in the way I ran it and how I felt. For they were certainly different.</p>
+<p>There were obvious differences in the type of race - the Thames Meander a low key trail marathon and Barcelona the full closed-road cheering crowds job  - but here I'm more interested in the way I ran it and how I felt. For in that respect they were certainly different.</p>
 
-<p>In my first marathon I heeded the advice to start slowly. The first two miles turned out to be my slowest. I kept a steady pace in line with what I was planning. I wasn't expecting what happened when I reached the halfway point though: the ability to continue that pace. From 13 to 20 miles I experienced a surprising feeling of strength, and an incredibly tangible sense of the endurance training kicking in. You reap what you sow. The rarity of such a direct relationship between effort and reward, getting out what you put in.
+<p>In my first marathon I heeded the advice to start slowly. The first two miles turned out to be my slowest. I kept a steady pace in line with what I was planning. I wasn't expecting what happened when I reached the halfway point though: the ability to continue that pace. From 13 to 20 miles I experienced a surprising feeling of strength, an incredibly tangible sense of the long hours of training kicking in. You reap what you sow. I struggle to recall another time when I felt such a direct relationship between effort and reward. And while it certainly got hard later on, I ended up running the second half marginally faster than the first - living the negative splits dream!</p>
 
 
 A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
@@ -36,7 +36,6 @@ living the negative splits dream
 
 Input output, effort reward, reap what you sow
 
-Other metaphor for this, visual? Filling the tank
 
 Second marathon: 
 build up, 10 days leading in no run apart from a 15 mins the day before
