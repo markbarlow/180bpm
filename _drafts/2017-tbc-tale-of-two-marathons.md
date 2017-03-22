@@ -1,7 +1,7 @@
 ---
 layout: 180blogpost
 title: A tale of two marathons
-subheading: Input output, you reap what you sow
+subheading: Input output, effort reward, you reap what you sow
 excerpt: 
 heroimage: blog-shoe.png
 ---
@@ -27,26 +27,13 @@ TODO: links; image - what about a composite of photos from both? split screen st
 
 <p>There were obvious differences in the type of race - the Thames Meander a low key trail marathon and Barcelona the full closed-road cheering crowds job  - but here I'm more interested in the way I ran it and how I felt. For in that respect they were certainly different.</p>
 
-<p>In my first marathon I heeded the advice to start slowly. The first two miles turned out to be my slowest. I kept a steady pace in line with what I was planning. I wasn't expecting what happened when I reached the halfway point though: the ability to continue that pace. From 13 to 20 miles I experienced a surprising feeling of strength, an incredibly tangible sense of the long hours of training kicking in. You reap what you sow. I struggle to recall another time when I felt such a direct relationship between effort and reward. And while it certainly got hard later on, I ended up running the second half marginally faster than the first - living the negative splits dream!</p>
+<p>In my first marathon I heeded the advice to start slowly. The first two miles turned out to be my slowest. I kept a steady pace in line with what I was planning. I wasn't expecting what happened when I reached the halfway point though: the ability to continue that pace. From 13 to 20 miles I experienced a surprising feeling of strength, an incredibly tangible sense of the long hours of training kicking in. I struggle to recall another time when I felt such a direct relationship between effort and reward. You reap what you sow. And while it certainly got hard later on, I ended up running the second half marginally faster than the first - living the negative splits dream!</p>
 
+<p>Marathon number 2, though, was a different story. I had decided to be less conservative at the start, but this intent when combined with the 10 days without running meant I over-compensated and went off much too quickly. A couple of the early miles came in at just over 7 minutes per mile. And once the genie was unleashed, I struggled to contain it. This time, there was to be no kick at the halfway point - quite the opposite. </p>
 
-A level vs gcses and assembly comment - sharp intake of breath. But the risk too - all must line up for one day.
+<p>At the halfway mark I already felt in trouble and the whole second half was a huge mental and physical struggle. A lot of suffering. I had the added ingominy of my GPS tracking freezing at 21 miles, with no mile markers to help on the course, so that last stretch was a killer. One final kick in the teeth - on this course you pass the finish at 24 miles and have to do an extra out-and-back loop to make the distance. All that can be said for that psychological treat is at least I knew where I was by then.</p>
 
-living the negative splits dream
-
-Input output, effort reward, reap what you sow
-
-
-Second marathon: 
-build up, 10 days leading in no run apart from a 15 mins the day before
-Fast start over-compensated, sowed the seeds of suffering
-This time, from the half way point a struggle, not that boost of strength
-Learn the hard way
-reap what you sow in-race as well as from training.
-
-I'd didn't heed the warnings I'd read but, you know, sometimes you've just got to find out for yourself. It was at least in keeping with the pain-and-pushed-limits theme of the race number and medal.
-
-Pushing the limits - photo
+<p> So it turns out you reap what you sow during a race, as well as from your training. I didn't heed the warnings I'd read but, you know, sometimes you've just got to find out for yourself and learn the hard way. The experience is not one I intend to repeat, but it was at least in keeping with the pain-and-pushed-limits theme of the race number and medal.</p>
 
 
 

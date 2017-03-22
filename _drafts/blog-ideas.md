@@ -84,6 +84,8 @@ https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 # doubling up
 
 
+But the risk too - all must line up for one day. So how to hedge that?
+
 Many articles, you can find an opinion to suit your own needs. 
 Doesn't seem to be a sweet spot where you have enough recovery and maintain your endurance levels - you're going to lose out on one or the other.
 
