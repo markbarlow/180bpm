@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: Why I started running
 subheading: Did I choose running, or did running choose me?
-excerpt: In January 2015, with little thought or planning, I went for a lunchtime run. This turned out to be the point I started regular running.
+excerpt: In January 2015, with little thought or planning, I went for a lunchtime run. This turned out to be the point I started regular running
 heroimage: blog-runner2.png
 ---
 

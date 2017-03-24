@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: What is cross-training?
 subheading: Try as you might, it can't be avoided
-excerpt: Like some running version of Godwin's law, the more running articles you read the more inevitable it becomes that someone, somewhere will pop up and recommend cross-training.
+excerpt: Like some running version of Godwin's law, the more running articles you read the more inevitable it becomes that someone, somewhere will pop up and recommend cross-training
 heroimage: blog-swimming2.png
 ---
 

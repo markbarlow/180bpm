@@ -6,8 +6,6 @@ excerpt: This year I completed my second marathon, the Thames Meander, almost a 
 heroimage: blog-racenumbers-crop.jpg
 ---
 
-TODO: links; image - what about a composite of photos from both? split screen style. or both race numbers?
-
 
 <p>This year I completed my second marathon, the <a href="">Thames Meander</a>, almost a year to the day after the first in <a href="">Barcelona</a>. Looking back now and comparing the two, the training experience was similar but the race experience starkly different.</p>
 
