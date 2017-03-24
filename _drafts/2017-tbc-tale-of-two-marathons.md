@@ -1,12 +1,13 @@
 ---
 layout: 180blogpost
 title: A tale of two marathons
-subheading: Input output, effort reward, you reap what you sow
-excerpt: 
-heroimage: blog-shoe.png
+subheading: Input output, you reap what you sow
+excerpt: This year I completed my second marathon, the Thames Meander, almost a year to the day after the first in Barcelona. Looking back now and comparing the two, the training experience was similar but the race experience starkly different
+heroimage: blog-racenumbers-crop.jpg
 ---
 
 TODO: links; image - what about a composite of photos from both? split screen style. or both race numbers?
+
 
 <p>This year I completed my second marathon, the <a href="">Thames Meander</a>, almost a year to the day after the first in <a href="">Barcelona</a>. Looking back now and comparing the two, the training experience was similar but the race experience starkly different.</p>
 
@@ -22,8 +23,11 @@ TODO: links; image - what about a composite of photos from both? split screen st
  * I was also ill in the week leading up to the marathon. The first time I think it was partly psychosomatic, the second time it was on the back of an exhausting week at work followed immediately by a weekend away, and a lack of opportunity to rest and recover. It's sod's law at work, either way. The first time this meant dropping about 3 runs, the second time it was 10 days without a proper run before race day, save 15 minutes the day before. The silver lining here is that at least it was the taper by this point, and as the running plans would say "the hay is in the barn" 
 
 
+
+
 <h2 class="section-heading">The marathon</h2>
 
+<img class="img-responsive" src="/img/blog-racenumbers2-800w.jpg" alt="Race numbers">
 
 <p>There were obvious differences in the type of race - the Thames Meander a low key trail marathon and Barcelona the full closed-road cheering crowds job - but here I'm more interested in the way I ran it and how I felt. For in that respect they were certainly different.</p>
 
@@ -35,10 +39,9 @@ TODO: links; image - what about a composite of photos from both? split screen st
 
 <p> So it turns out you reap what you sow during a race, as well as from your training. I didn't heed the warnings I'd read but, you know, sometimes you've just got to find out for yourself and learn the hard way. The experience is not one I intend to repeat, but it was at least in keeping with the pain-and-pushed-limits theme of the race number and medal.</p>
 
+<img class="img-responsive" src="/img/bog-medal1-800w.jpg" alt="Thames Meander medal">
 
 
 
-
-<p class="photocredit text-muted"><i class="fa fa-creative-commons fa-fw"></i> running photo by <a href=""></a></p>
 
 
