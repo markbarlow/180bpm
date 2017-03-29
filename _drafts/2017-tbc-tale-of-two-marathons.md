@@ -7,12 +7,12 @@ heroimage: blog-racenumbers-crop.jpg
 ---
 
 
-<p>This year I completed my second marathon, the <a href="">Thames Meander</a>, almost a year to the day after the first in <a href="">Barcelona</a>. Looking back now and comparing the two, the training experience was similar but the race experience starkly different.</p>
+<p>This year I completed my second marathon, the <a href="http://www.hermesrunning.com/thames-meander/">Thames Meander</a>, almost a year to the day after the first in <a href="http://www.zurichmaratobarcelona.es/">Barcelona</a>. Looking back now and comparing the two, the training experience was similar but the race experience starkly different.</p>
 
 
 <h2 class="section-heading">The training</h2>
 
-<p>To train for each marathon, I loosely followed one of the excellent <a href="">free Runkeeper race plans</a>. I say loosely, as try as I might I've never been able to keep up with either the number of runs per week or the number of miles per week. My approach is to make sure I always complete the long run of a given week, then do as much else as possible - but not worry too much when I skip some scheduled outings. I try to get some interval runs in, and a half-marathon paced 'threshold run', and make do with that.</p>
+<p>To train for each marathon, I loosely followed one of the excellent <a href="https://runkeeper.com/search/fitness-classes/running/finish-a-race/marathon-plans">free Runkeeper race plans</a>. I say loosely, as try as I might I've never been able to keep up with either the number of runs per week or the number of miles per week. My approach is to make sure I always complete the long run of a given week, then do as much else as possible - but not worry too much when I skip some scheduled outings. I try to get some interval runs in, and a half-marathon paced 'threshold run', and make do with that.</p>
 
 <p>Then, of course, there is the unpredictability of outside events. The slings and arrows of training fortune. In this respect the two training periods were remarkably similar, confirming - if there were any doubt -  that you have to be prepared to expect some ups and downs and interruptions. In both years the following happened:</p>
 

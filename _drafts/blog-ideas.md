@@ -85,24 +85,6 @@ https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
 
 
-# doubling up
-
-
-But the risk too - all must line up for one day. So how to hedge that?
-
-Many articles, you can find an opinion to suit your own needs. 
-Doesn't seem to be a sweet spot where you have enough recovery and maintain your endurance levels - you're going to lose out on one or the other.
-
-taking on two x half and possibly two x mara;
-Read it so you don't have to on  successive marathons which is also body or mind related; 
-add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others
-
-double trouble
-
-https://www.flickr.com/photos/rutlo/4576724332/ - marathon sign
-https://www.flickr.com/photos/ramonduran/280107804/in/photolist-7U2Z4Q-6jcJBn-9koLsp-877zUf-qKChU-ejC9TY-4R4x3N-553qhG-877jAQ-4RVUMn-6jcJBz-66K9iG-DXaAE-9LjKv4-aj5jzK-8PfWHd-62awZC-3Mthec-7Z9b5e-bxzJeg - double rainbow
-
-
 
 ​# running in rain
 Blog - the rewards of running in the rain. Let's not pretend it's easy getting out of the house. Excuses come more readily. Old injuries ache. Especially in winter. Any old minor niggle will suddently act like it's an old scar, sensitive to the changes in moisture. But when do : the solidarity omerta everyone says hello in city where often don't that makes a difference. Fewer people. Fewer dogs and long leads.
