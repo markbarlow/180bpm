@@ -20,7 +20,7 @@ Preparing for a marathon is a risky affair. You invest so much time in the train
 
 So what to do about it? Can you hedge it? 
 
-Many articles, you can find an opinion to suit your own needs. 
+Many articles, conflicting advice, you can find an opinion to suit your own needs. 
 
 Read it so you don't have to on  successive marathons which is also body or mind related; 
 add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others
@@ -35,8 +35,8 @@ add in my own tips about refunds, postage of the packs, injury attitude, when se
 * However, if you have done easy running for 1 or 2 weeks and feel recovered, and you're not yet onto the taper of your plan, then prioritise intensity over distance - intervals, lactate threshold tempo runs etc
 * Listen to your body not your mind - rest and recovery trumps running
 * There isn't a sweet spot where you have enough recovery and maintain the endurance levels from your original training - you're going to lose out on one or the other
-* If you're doing #2 4 weeks after your first, be prepared to consider it as a run-for-fun rather than an opportunity for a PB, and go with what the day brings. 
-* If you're hoping to do #2 at full pelt then you're likely to need at least 6 to 12 weeks between the marathons - at which point given those extra weeks' work it may well feel much less like a two-for-one deal on your marathon training
+* If you're doing #2 4 weeks after your first, be prepared to consider it as a run-for-fun rather than an opportunity for a PB, and go with what the day brings
+* If you're hoping to do #2 at full pelt then you're likely to need at least 8 to 12 weeks between the marathons (6 if you're really fit) - at which point given those extra weeks' work it may well feel much less like a two-for-one deal on your marathon training
 * Do one 16 to 20 mile run if you're up to it, but don't force it
 * A bit of foam rolling or a massage won't go amiss
 * Eat well, sleep well
@@ -48,10 +48,9 @@ pullquote:
 -
 
 
-
 double trouble
 
-https://www.flickr.com/photos/rutlo/4576724332/ - marathon sign
+https://www.flickr.com/photos/rutlo/4576724332/ - marathon sign, Matthew Rutledge at https://www.flickr.com/photos/rutlo/ 
 https://www.flickr.com/photos/ramonduran/280107804/in/photolist-7U2Z4Q-6jcJBn-9koLsp-877zUf-qKChU-ejC9TY-4R4x3N-553qhG-877jAQ-4RVUMn-6jcJBz-66K9iG-DXaAE-9LjKv4-aj5jzK-8PfWHd-62awZC-3Mthec-7Z9b5e-bxzJeg - double rainbow
 
 
