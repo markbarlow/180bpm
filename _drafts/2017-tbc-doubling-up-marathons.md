@@ -3,7 +3,7 @@ layout: 180blogpost
 title: Two for one
 subheading: 
 excerpt: 
-heroimage: blog-racenumbers-crop.jpg
+heroimage: blog-shoe.png
 ---
 
 
@@ -26,7 +26,6 @@ Read it so you don't have to on  successive marathons which is also body or mind
 add in my own tips about refunds, postage of the packs, injury attitude, when sell out and when have to travel. Important if youre minimising impact on family or others
 
 
-- article notes
 
 * Rest the first week - this is not a hard one to follow!
 * Look at how many weeks  you have to go, and - bearing in mind the points below - loosely follow your plan for the equivalent last weeks before marathon #1
@@ -42,10 +41,10 @@ add in my own tips about refunds, postage of the packs, injury attitude, when se
 * Eat well, sleep well
 * Once more: listen to your body not your mind (link?). When the mind pushes you to do more, or up the pace, remind yourself it's not a traditional training plan you're doing here
 
-pullquote:
-"Your body will forget how to run fast before it forgets how to run long" Jenny Hadfield, coauthor of Marathoning for Mortals
+<blockquote>
+Your body will forget how to run fast before it forgets how to run long<br>- Jenny Hadfield, co-author of Marathoning for Mortals
+</blockquote>
 
--
 
 
 double trouble

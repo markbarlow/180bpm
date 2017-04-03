@@ -14,6 +14,10 @@ Inline image code (no tabs or else it gets treated as MarkDown):
 <span class="caption text-muted">XXX</span>
 
 
+Quotes
+<blockquote> is all you need, maybe with <br>- Author Name
+
+
 Images not used yet:
 - blog-shoe
 - those starting IMG from iphone, not cropped yet
