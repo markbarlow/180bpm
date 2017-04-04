@@ -1,5 +1,12 @@
+---
+layout: 180blogpost
+title: Lorem ipsum title
+subheading: some text here
+excerpt: 
+heroimage: blog-trees1.png
+---
 
------
+
 Link format:
 <a href="{{ site.baseurl }}{% post_url 2017-1-18-why-I-started-running %}">link</a>
 
@@ -14,13 +21,16 @@ Inline image code (no tabs or else it gets treated as MarkDown):
 <span class="caption text-muted">XXX</span>
 
 
-Quotes
-<blockquote> is all you need, maybe with <br>- Author Name
+Quotes:
+<blockquote> is all you need, maybe with <br>- Author Name</blockquote>
 
 
 Images not used yet:
 - blog-shoe
-- those starting IMG from iphone, not cropped yet
+- blog-trees1 really nice
+- blog-trees5 or trees6 with the head, depending on which goes better with text of given post
+- blog-primrose1, primrose3 - various of each to try out (primrose2 did not crop but kept in case of inline use later e.g. dawn run picture)
+
 
 -----
 
