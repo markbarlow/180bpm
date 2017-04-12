@@ -1,8 +1,8 @@
 ---
 layout: 180blogpost
 title: Lorem ipsum title
-subheading: some text here
-excerpt: 
+subheading: blog ideas notes
+excerpt: blog ideas notes
 heroimage: blog-trees1.png
 ---
 
@@ -21,9 +21,15 @@ Inline image code (no tabs or else it gets treated as MarkDown):
 <span class="caption text-muted">XXX</span>
 
 
+H2:
+<h2 class="section-heading">The training</h2>
+
 Quotes:
 <blockquote> is all you need, maybe with <br>- Author Name</blockquote>
 
+
+Bullet:
+ * Note the space before the asterisk
 
 Images not used yet:
 - blog-shoe
