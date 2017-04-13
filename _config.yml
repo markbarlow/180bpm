@@ -79,6 +79,6 @@ exclude:
 encoding: utf-8
 
 # Pagination setting from http://jekyllrb.com/docs/pagination/
-paginate: 4
+paginate: 5
 paginate_path: "/blog/page:num/"
 
