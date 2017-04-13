@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: A tale of two marathons
 subheading: Input output, you reap what you sow
-excerpt: This year I completed my second marathon, the Thames Meander, almost a year to the day after the first in Barcelona. Looking back now and comparing the two, the training experience was similar but the race experience starkly different
+excerpt: This year I completed my second marathon, the Thames Meander, almost a year to the day after the first in Barcelona. Comparing the two, the training experience was similar but the race experience starkly different
 heroimage: blog-racenumbers-crop.jpg
 ---
 

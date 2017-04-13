@@ -31,12 +31,19 @@ Quotes:
 Bullet:
  * Note the space before the asterisk
 
+Numbered list - no space needed for this type:
+1.  Not as tired or achey after runs
+2.  Helped me go further
+
 Images not used yet:
 - blog-shoe
 - blog-trees1 really nice
 - blog-trees5 or trees6 with the head, depending on which goes better with text of given post
-- blog-primrose1, primrose3 - various of each to try out (primrose2 did not crop but kept in case of inline use later e.g. dawn run picture)
+- blog-primrose1, primrose3 - various of each to try out (
 
+Images for inline, not for hero:
+- blog-primrose2 did not crop but kept in case of inline use later e.g. dawn run picture)
+- blog-primrose3-3 the sun obscures text when hero, nice pic though
 
 -----
 

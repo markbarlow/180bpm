@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: Learning to stretch
 subheading: What do flossing and stretching have in common?
-excerpt: A few years ago, my dentist told me I should start flossing. I gave it a brief go, but found it a hassle
+excerpt: A few years ago, my dentist told me I should start flossing. I gave it a brief go, but found it a hassle. But what has this got to do with stretching?
 heroimage: blog-stretch2.png
 ---
 

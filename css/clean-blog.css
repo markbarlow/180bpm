@@ -611,6 +611,12 @@ span a {
 }
 
 
+/* if you want to underline links in li elements in the main container, but not elsewhere eg navbar */
+.container li a {
+  text-decoration: underline;
+}
+
+
 .photocredit {
   font-size: 14px;
   margin-bottom: 0;
