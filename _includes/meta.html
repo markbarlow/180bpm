@@ -2,10 +2,20 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <meta name="author" content="{{ site.name }}" />
     <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@180steps" />
+
+    {% if page.twittercard-player %}
+    <meta property="twitter:card" content="player">
+    <meta property="twitter:player" content="https://bandcamp.com/EmbeddedPlayer/v=2/album=506521525/size=large/linkcol=0084B4/notracklist=true/twittercard=true/">
+    <meta property="twitter:player:width" content="350">
+    <meta property="twitter:player:height" content="467">
+    <meta property="twitter:image" content="https://f4.bcbits.com/img/a1669278325_2.jpg">
+    {% else %}
+    <meta name="twitter:card" content="summary" />
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/{{ page.heroimage }}" />
+    {% endif %} 
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
@@ -14,9 +24,13 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
-    <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+
+
+
+
