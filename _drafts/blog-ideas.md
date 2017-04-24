@@ -39,29 +39,14 @@ Images not used yet:
 - blog-shoe
 - blog-trees1 really nice
 - blog-trees5 or trees6 with the head, depending on which goes better with text of given post
-- blog-primrose1 - one of these maybe -1 to try, depending on story? the others dont work with white text
+- blog-primrose3-1 is the best, others too much sun and alternativ photos too faded/don't crop
 
 Images for inline, not for hero:
 - blog-primrose2 did not crop but kept in case of inline use later (e.g. dawn run picture)
+- blog-primrose1 may be good small, wasn't good enough qual for hero
 - blog-primrose3-3 the sun obscures text when hero, nice pic though
 
 -----
-
-# so how was the double ing
-
-Trying my own advice
-
-Number of runs / distance between plus the two long ones in there
-
-The rhythm of it - rest, heavy legs and slow right up to week before, swim and run, good last week.. Groin question all the way and into the race at half way, half expecting it to flare at any point but held out
-
-PB after all, and sensible run
-
-Biggest problem was GPS watch no signal, so reverted to using my phone. Spent about 20 minutes trying different spots to no avail, the only advantage being it distracted me from the pre-race nerves.
-
-Felt a lot better after than from the previous one, though that in part because messed that up somewhat. And in the following days too, felt much fresher.
-
-
 
 
 # books
