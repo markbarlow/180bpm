@@ -13,7 +13,12 @@ part 1 / part 2
 
 Trying my own advice
 
-Number of runs / distance between plus the two long ones in there
+Number of runs / distance between plus the two long ones in there:
+17 runs totalling 122 miles
+One 17 mile run, two 12 mile runs
+One swim
+One hour of 5-a-side football
+
 
 The rhythm of it - rest, heavy legs and slow right up to week before, swim and run, foam rolling, good last week.. Groin question all the way and into the race at half way, half expecting it to flare at any point but held out
 

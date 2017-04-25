@@ -98,7 +98,7 @@
 
 <p>NB had to move 3 scripts to head to get this to work.</p>
 
-<p>Todo: styling, sizing, positioning from top or bottom?, button style test</p>
+<p>Todo: positioning from top or bottom? If you want bottom - http://stackoverflow.com/questions/34164889/how-to-make-a-bootstrap-modal-fade-in-from-the-bottom</p>
 
 
 <button type="submit" class="btnblue btnblue-default">Download all the music<br><span class="btnsmalltext">12 mp3s in a 100 MB Zip file</span></button>
@@ -116,18 +116,14 @@
 <div class="container">
   <h2>Modal Options</h2>
   <p>The backdrop option specifies whether the modal should have a dark overlay (the background color of the current page) or not.</p>
-  <!-- Trigger the modal with a button -->
-  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button><br>
-  <A href="#myModal" data-toggle="modal">Try triggering with a link</A>
+  <!-- Trigger the modal with a button 
+  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button>
+-->
+ 
+  <a href="#myModal" data-toggle="modal">Trigger with a link</a>
 
    <Br>
-  Also check out modal-sm in styles, applied to div class = modal-dialog modal-sm
-
-    .modal-sm {
-    width: 300px;
-  }
  
- - add your own mid size? large is there too
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
@@ -136,7 +132,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Coffe donations - thank you!</h4>
+          <h4 class="modal-title">Coffee donations - thank you!</h4>
         </div>
         <div class="modal-body">
          <!-- new one -->
@@ -161,7 +157,7 @@
 
 <hr>
 <!-- donate link instead -->
-<div><p>If you prefer, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
+<div><p>Or if you prefer, you can <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
 
         </div>
         <div class="modal-footer">
@@ -179,12 +175,6 @@
 $(document).ready(function(){
     $("#myBtn").click(function(){
         $("#myModal").modal({backdrop: true});
-    });
-    $("#myBtn2").click(function(){
-        $("#myModal2").modal({backdrop: false});
-    });
-    $("#myBtn3").click(function(){
-        $("#myModal3").modal({backdrop: "static"});
     });
 });
 </script>
