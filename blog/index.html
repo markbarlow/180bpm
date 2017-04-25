@@ -70,7 +70,7 @@ title: Running blog
                 {% endif %}
 
                 <!-- pagination in div on its own row to allow room to expand -->
-                <div class="pagination-center">
+                <div class="pagination-center" style="margin-top: 10px;">
                      {% for page in (1..paginator.total_pages) %}
                      <ul class="pagination pagination-sm">
                         {% if page == paginator.page %}
