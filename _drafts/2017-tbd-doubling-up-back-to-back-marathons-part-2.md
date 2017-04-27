@@ -1,30 +1,49 @@
 ---
 layout: 180blogpost
 title: How to run back-to-back marathons (part 2) 
-subheading: Reading the advice so you don't have to
-excerpt: Preparing for a marathon is a risky affair. You invest so much time in the training, and it all has to come together on one particular morning. So what to do about this risk?
+subheading: So how did it go?
+excerpt: Practising what you're preaching - how I got on 
 heroimage: blog-primrose3-1.png
 ---
 
 
-# so how was the double ing
-
 part 1 / part 2
 
-Trying my own advice
+<p>Having put together a summary of all the advice on running back-to-back marathons, it was time to walk the walk.</p>
 
+<p>After the <a href="http://www.hermesrunning.com/thames-meander/">Thames Meander</a> in March, I had 5 weeks until my next marathon in <a href="https://www.bostonmarathon.co.uk/">Boston, UK</a>.
+
+
+I started with a week off from running, just slipping a swim in to loosen the limbs
+I did 5-10 minutes of foam rolling 3 times that week - calves, quads, ITB, hamstrings
 Number of runs / distance between plus the two long ones in there:
 17 runs totalling 122 miles
-One 17 mile run, two 12 mile runs
+The big ones were one 17 mile run, one 14 mile run and one 12 mile run
 One swim
 One hour of 5-a-side football
+I did try consciously not to overdo it
 
 
 The rhythm of it - rest, heavy legs and slow right up to week before, swim and run, foam rolling, good last week.. Groin question all the way and into the race at half way, half expecting it to flare at any point but held out
 
+
+<h2 class="section-heading">How did it feel?</h2>
+
+
+
+
+<h2 class="section-heading">Race day</h2>
+
+
 PB after all, and sensible run
 
 Biggest problem was GPS watch no signal, so reverted to using my phone. Spent about 20 minutes trying different spots to no avail, the only advantage being it distracted me from the pre-race nerves.
+
+
+
+
+
+
 
 Felt a lot better after than from the previous one, though that in part because messed that up somewhat. And in the following days too, felt much fresher.
 
