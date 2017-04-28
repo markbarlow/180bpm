@@ -9,37 +9,34 @@ heroimage: blog-primrose3-1.png
 
 part 1 / part 2
 
-<p>Having put together a summary of all the advice on running back-to-back marathons, it was time to walk the walk.</p>
+<p></p>
 
-<p>After the <a href="http://www.hermesrunning.com/thames-meander/">Thames Meander</a> in March, I had 5 weeks until my next marathon in <a href="https://www.bostonmarathon.co.uk/">Boston, UK</a>.
+<p>After the <a href="http://www.hermesrunning.com/thames-meander/">Thames Meander</a> in March, I had 5 weeks until my next marathon in <a href="https://www.bostonmarathon.co.uk/">Boston, UK</a>. After talking the talk with <a href="{{ site.baseurl }}{% post_url 2017-4-13-doubling-up-back-to-back-marathons %}">a summary of all the advice on running two marathons in close proximity</a>, it was time to walk the walk.</p>
 
+<h2 class="section-heading">What did I do?</h2>
 
-I started with a week off from running, just slipping a swim in to loosen the limbs
-I did 5-10 minutes of foam rolling 3 times that week - calves, quads, ITB, hamstrings
-Number of runs / distance between plus the two long ones in there:
-17 runs totalling 122 miles
-The big ones were one 17 mile run, one 14 mile run and one 12 mile run
-One swim
-One hour of 5-a-side football
-I did try consciously not to overdo it
+<p>So, practising what I'd preached, in those 5 weeks I did the following:</p>
 
-
-The rhythm of it - rest, heavy legs and slow right up to week before, swim and run, foam rolling, good last week.. Groin question all the way and into the race at half way, half expecting it to flare at any point but held out
+ * I started with a week off from running, just slipping one swim in to loosen the limbs
+ * I did 5-10 minutes of foam rolling 3 times that first week - calves, quads, ITB, hamstrings
+ * I also looked up exercises for a groin strain and did them for the first time. I'd done something to my left groin trying to get up from a prone state after my <a href="{{ site.baseurl }}{% post_url 2017-3-31-a-tale-of-two-marathons %}">difficulties at the Thames meander</a>
+ * In all I completed 17 runs totalling 122 miles
+ * The big ones were one 17 mile run, one 14 mile run and one 12 mile run
+ * I also did one hour of 5-a-side football, which was good for a change of scene but bad for the groin - the lateral and stop/start movements did me no favours, so I retired to a place in goal 
+ * Using the "maintaining not training" motto I tried not to overdo the amount or distance, not to attempt to go too quickly, and not to feel bad if I missed a planned run 
 
 
 <h2 class="section-heading">How did it feel?</h2>
 
+<p>For the first 4 weeks I definitely felt I still needed rest and recovery. I could feel speed and ease slowly returning in the legs, but they still felt heavy and slow right up to a week before. So the knowledge that I didn't need to push it really helped for that month, relieving the mental pressure and allowing me the time and mental space to recover. I think this was crucial. In the final week I felt my legs coming good and a freshness returning just in time.</p>
 
-
+<p>Aside from the general recovery, the other issue was my groin strain. The pain was diminishing, but only very gradually and I couldn't shake it off.  Once I got warmed up it was ok, especially on the flat with predictable leg movements, but I still winced when stretching or getting out of bed without care, and never quite knew if a setback was round the corner. I didn't finalise travel until 2 weeks before as I wasn't confident I was in the clear.</p>
 
 <h2 class="section-heading">Race day</h2>
 
+<p>Come race day, my biggest problem pre-race was my GPS watch failing to get a location fix, so I reverted last minute to using my phone instead. I spent about 20 minutes trying different spots to no avail, and to huge frustration - the only advantage being it distracted me from the usual pre-race nerves.</p>
 
-PB after all, and sensible run
-
-Biggest problem was GPS watch no signal, so reverted to using my phone. Spent about 20 minutes trying different spots to no avail, the only advantage being it distracted me from the pre-race nerves.
-
-
+<p>The groin niggle was in the back of my mind and I started to feel it more at about half way, fearing it could flare up at any point but my luck was in - it held out and I forgot about it entirely for the last 7 or 8 miles. And with much more steady, controlled running than last time I both enjoyed it more as it was going on, and finished with a PB after all despite the expectation setting.</p>
 
 
 
