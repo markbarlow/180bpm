@@ -39,7 +39,8 @@ Images not used yet:
 - blog-shoe
 - blog-trees1 really nice
 - blog-trees5 or trees6 with the head, depending on which goes better with text of given post
-- blog-primrose3-1 is the best, others too much sun and alternativ photos too faded/don't crop
+- blog-primrose3-1 is the best, others too much sun and alternative photos too faded/don't crop
+- see other list for older ones like the DTS track ones not used yet
 
 Images for inline, not for hero:
 - blog-primrose2 did not crop but kept in case of inline use later (e.g. dawn run picture)

@@ -23,7 +23,7 @@ part 1 / part 2
  * In all I completed 17 runs totalling 122 miles
  * The big ones were one 17 mile run, one 14 mile run and one 12 mile run
  * I also did one hour of 5-a-side football, which was good for a change of scene but bad for the groin - the lateral and stop/start movements did me no favours, so I retired to a place in goal 
- * Using the "maintaining not training" motto I tried not to overdo the amount or distance, not to attempt to go too quickly, and not to feel bad if I missed a planned run 
+ * Following the "maintaining not training" mantra I tried not to overdo the amount or distance, not to attempt to go too quickly, and not to feel bad if I missed a planned run 
 
 
 <h2 class="section-heading">How did it feel?</h2>
