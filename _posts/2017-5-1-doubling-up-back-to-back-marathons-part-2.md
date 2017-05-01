@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: How to run back-to-back marathons (part 2) 
 subheading: So how did it go?
-excerpt: Practising what you're preaching - how I got on 
+excerpt: Putting the theory to the test - how I got on following the advice on how to run two marathons in a few weeks, from one training plan
 heroimage: blog-trees1.png
 ---
 
