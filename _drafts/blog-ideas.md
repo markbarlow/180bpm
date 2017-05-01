@@ -35,6 +35,13 @@ Numbered list - no space needed for this type:
 1.  Not as tired or achey after runs
 2.  Helped me go further
 
+Font awesome icons in a list - change or remove color:
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-check fa-blue"></i>Stuff</li>
+</ul>
+
+
+
 Images not used yet:
 - blog-shoe
 - blog-trees1 really nice

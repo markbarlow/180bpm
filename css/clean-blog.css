@@ -583,6 +583,14 @@ div#boxtwo50 {
 }
 
 
+/* set some colors for use with font awesome <i> code */
+.fa-blue {
+  color:#0085a1;
+}
+.fa-green {
+  color:#78bc65;
+}
+
 /* Colour the circles blue rather than default grey black and change on hover
 Set a reverse style to use on any links for this */
 

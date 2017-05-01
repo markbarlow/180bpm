@@ -1,6 +1,6 @@
 ---
 layout: 180blogpost
-title: How to run back-to-back marathons 
+title: How to run back-to-back marathons (part 1)
 subheading: Reading the advice so you don't have to
 excerpt: Preparing for a marathon is a risky affair. You invest so much time in the training, and it all has to come together on one particular morning. So what to do about this risk?
 heroimage: blog-shoe.png
@@ -53,6 +53,8 @@ Your body will forget how to run fast before it forgets how to run long<br>- Jen
 <h2 class="section-heading">Putting it into practise</h2>
 
 <p>For me, the marathon #2 candidate which met these requirements turned out to be the <a href="https://www.bostonmarathon.co.uk/">Boston marathon UK</a>, also known as the Boston (not that one) marathon. It falls 5 weeks after the <a href="http://www.hermesrunning.com/thames-meander/">Thames Meander</a> I did as marathon #1. And groin strain permitting, it's now 4 days away. When I started running <a href="{{ site.baseurl }}{% post_url 2017-1-28-180-steps-intro %}">I put the 180 steps per minute theory to the test</a>; so now it's time to test this one - let's see how it works out.</p>
+
+<p><i>Update: find out how it went in <a href="{{ site.baseurl }}{% post_url 2017-5-1-doubling-up-back-to-back-marathons-part-2 %}">part 2</a></i></p>
 
 
 
