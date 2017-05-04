@@ -96,7 +96,7 @@
      
 
 
-<p>NB had to move 3 scripts to head to get this to work.</p>
+<p>NB had to move 3 scripts to head to get this to work - jquery, bootstrap core and custom theme.</p>
 
 <p>Todo: positioning from top or bottom? If you want bottom - http://stackoverflow.com/questions/34164889/how-to-make-a-bootstrap-modal-fade-in-from-the-bottom</p>
 
@@ -143,8 +143,11 @@
 
 <input type="hidden" name="on0" value="Pick a donation">Amount:<br> 
 <select name="os0">
-    <option value="Ten pence">Ten pence £0.10 GBP</option>
-    <option value="Twenty pence">Twenty pence £0.20 GBP</option>
+    <option value="Ten pence">Ten pence - £0.10 GBP</option>
+    <option value="Twenty pence">Twenty pence - £0.20 GBP</option>
+    <option value="Fifty pence">Fifty pence - £0.50 GBP</option>
+    <option value="£1">One pound - £1.00 GBP</option>
+    <option value="£2">Two pounds - £2.00 GBP</option>
 </select> 
 <p>
 <input type="hidden" name="currency_code" value="GBP">
@@ -192,23 +195,6 @@ $(document).ready(function(){
 
  
  
-
-<!-- GA -->
-  
-    <!-- Google Analytics -->
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-63444334-2', 'auto');
-        ga('send', 'pageview', {
-          'page': '/paypal-test',
-          'title': '180 steps per minute - paypal test'
-        });
-    </script>
-    <!-- End Google Analytics -->
 
 
 
