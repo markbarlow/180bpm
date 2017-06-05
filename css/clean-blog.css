@@ -590,6 +590,9 @@ div#boxtwo50 {
 .fa-green {
   color:#78bc65;
 }
+.fa-red {
+  color:#cc0000;
+}
 
 /* Colour the circles blue rather than default grey black and change on hover
 Set a reverse style to use on any links for this */
