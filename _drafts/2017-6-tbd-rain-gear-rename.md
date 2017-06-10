@@ -42,7 +42,7 @@ But </p>
 <li><i class="fa-li fa fa-check fa-green"></i>This will both get you out of the door and keep you dry for a long time. Hurrah!</li>
 <li><i class="fa-li fa fa-check fa-green"></i>Once you're getting up to the waterproof price point it will be breathable too, don't settle for less</li>
 <li><i class="fa-li fa fa-check fa-green"></i>uh</li>
-<li><i class="fa-li fa fa-check fa-green"></i>uh</li>
+<li><i class="fa-li fa fa-check fa-green"></i>It also has a clever trick whereby the pocket also serves as a pouch for packing the jacket. You reverse it, fold the garment in to it, then zip it up - one neat small package of Ronhill</li>
 <li><i class="fa-li fa fa-close fa-red"></i>Be warned, talking from experience rather than from science I suspect it is difficult if not impossible to combine a garment which is fully waterproof with a garment that is fully breathable. On long runs you'll still get moisture inside, especially around the shoulders where the material touches you more</li>
 <li><i class="fa-li fa fa-close fa-red"></i>uh</li>
 </ul>
