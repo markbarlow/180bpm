@@ -16,7 +16,7 @@ Image size:
 Twitter center:
 class="twitter-tweet tw-align-center"
 
-Inline image code (no tabs or else it gets treated as MarkDown):
+Inline image code (no tabs or else it gets treated as MarkDown) - 800w good for landscape to fill:
 <img class="img-responsive" src="img/XXXX.jpg" alt="XXX">
 <span class="caption text-muted">XXX</span>
 
