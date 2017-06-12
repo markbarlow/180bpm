@@ -56,7 +56,7 @@ But
 One for work, one for home.</p>
 
 
-<p class="photocredit text-muted"><i class="fa fa-creative-commons fa-fw"></i> photo by <a href="https://www.flickr.com/photos/52214493@N03/">Gabriele Diwald</a></p>
+<p class="photocredit text-muted"><i class="fa fa-creative-commons fa-fw"></i> rain photo by <a href="https://www.flickr.com/photos/52214493@N03/">Gabriele Diwald</a></p>
 
 
 
