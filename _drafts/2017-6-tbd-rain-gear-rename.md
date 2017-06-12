@@ -13,7 +13,12 @@ heroimage: blog-rain.png
 
 <h2 class="section-heading">Water resistant</h2>
 
-<p>I have one water resistant top, which is what I started out with: your entry-level Karrimor. A bargain at around £20 to £30 in your local stack-em-high-sell-em-low. How this one breaks down:</p>
+<p>I have one water resistant top, which is what I started out with: your entry-level Karrimor.</p>
+
+<img class="img-responsive" src="/img/blog-raincoat-karrimor-800h.png" alt="Karrimor raincoat">
+<span class="caption text-muted">Water resistant</span>
+
+<p>A bargain at around £20 to £30 in your local stack-em-high-sell-em-low, and for good reason:</p>
 
 <ul class="fa-ul">
 <li><i class="fa-li fa fa-check fa-green"></i>If its purpose is just to get you out of the door, under the illusion that you'll be sheltered from the rain, then it does that job</li> 
@@ -24,30 +29,31 @@ heroimage: blog-rain.png
 <li><i class="fa-li fa fa-close fa-red"></i>As your average 'resistant' is not breathable either it'll get steamy inside.</li>
 </ul>
 
-<p>So, several drawbacks but let's be fair to it - it's still better than nothing at all, and the benefit of the psychological illusion that it will keep you dry is not to be discounted. It can be the differnect that gets you out the door.</p>
+<p>So, several drawbacks but let's be fair to it - it's still better than nothing at all, and the benefit of the psychological illusion that it will keep you dry is not to be discounted. It can be the difference that gets you out the door.</p>
 
 
 <h2 class="section-heading">Waterproof</h2>
 
 
-<p>Good alternatives include the Montana one
+<p>In the waterproof corner, the <a href="http://www.ronhill.com/mens-infinity-torrent-jacket">Ronhill Torrent</a>. I bought one of these as an incentive for marathon training through a wet winter, and in case needed for a March UK marathon. The full retail price is a hefty £130 but you'll often find it on sale for anything from £80 to £100. Good alternatives include the almost identical <a href="https://www.montane.co.uk/mens-c1/clothing-c25/mens-waterproof-jackets-c11/minimus-jacket-p57">Montane Minimus</a>, 10g heavier if that matters to you.</p>
+
+<img class="img-responsive" src="/img/blog-raincoat-ronhill-800h.png" alt="Ronhill raincoat">
+<span class="caption text-muted"></span>
 
 
+<p>Now this is a different kettle of fish, and a case of you get what you pay for:</p>
 
-A carefully designed hood shape, giving you good peripheral vision - meeting trail standards?
-My Ron Hill is infinitely better than my Karrimor and got me out in dirty weather many more times than I would have done before, fulfilling its goal of keeping my marathon training going
-But </p>
-
-<ul  class="fa-ul">
+<ul class="fa-ul">
 <li><i class="fa-li fa fa-check fa-green"></i>This will both get you out of the door and keep you dry for a long time. Hurrah!</li>
 <li><i class="fa-li fa fa-check fa-green"></i>Once you're getting up to the waterproof price point it will be breathable too, don't settle for less</li>
-<li><i class="fa-li fa fa-check fa-green"></i>uh</li>
-<li><i class="fa-li fa fa-check fa-green"></i>It also has a clever trick whereby the pocket also serves as a pouch for packing the jacket. You reverse it, fold the garment in to it, then zip it up - one neat small package of Ronhill</li>
+<li><i class="fa-li fa fa-check fa-green"></i>It sports a well designed and adjustable hood, the angles carefully measured to give you good peripheral vision</li>
+<li><i class="fa-li fa fa-check fa-green"></i>It also has a clever trick whereby the pocket also serves as a pouch for packing the jacket, the "Pack it system". You reverse it, fold the garment in to it, then zip it up into one neat small package of Ronhill</li>
 <li><i class="fa-li fa fa-close fa-red"></i>Be warned, talking from experience rather than from science I suspect it is difficult if not impossible to combine a garment which is fully waterproof with a garment that is fully breathable. On long runs you'll still get moisture inside, especially around the shoulders where the material touches you more</li>
-<li><i class="fa-li fa fa-close fa-red"></i>uh</li>
 </ul>
 
-<p>One for work, one for home.</p>
+<p>My Ronhill is infinitely better than my Karrimor and got me out in dirty weather many more times than I would have done before, fulfilling its goal of keeping my marathon training going
+But
+One for work, one for home.</p>
 
 
 <p class="photocredit text-muted"><i class="fa fa-creative-commons fa-fw"></i> photo by <a href="https://www.flickr.com/photos/52214493@N03/">Gabriele Diwald</a></p>
