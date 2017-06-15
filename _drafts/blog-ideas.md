@@ -35,9 +35,10 @@ Numbered list - no space needed for this type:
 1.  Not as tired or achey after runs
 2.  Helped me go further
 
-Font awesome icons in a list (http://fontawesome.io/icons/) - change or remove color, style in clean-blog.css:
+Font awesome icons in a list (http://fontawesome.io/icons/) - change or remove color, blue red and green style so far in clean-blog.css:
 <ul class="fa-ul">
-<li><i class="fa-li fa fa-check fa-blue"></i>Stuff</li>
+<li><i class="fa-li fa fa-check fa-green"></i>Stuff</li>
+<li><i class="fa-li fa fa-close fa-red"></i>
 </ul>
 
 
@@ -102,15 +103,13 @@ socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neut
 
 # gym and recovery 
 
-Body or mind mistake
- 
-Gym rule broken necessity. Almost like a self-inflicted punishment for my folly.
 
-The rule why? minimum 1 year subscriptions and all the tales of wasted. Emerged from the dark ages but still kept away. This one was pay as you go so let myself off. But still as sat on a cycle machine there were pictures on the wall of  - literally - the road and park just outside.
- 
-Desperate times desperate measures
 
-There was another one here… aggravating an old injury? Hamstring example too from last time. 
+For years I have kept to an unwritten rule of never joining a gym. Why? Firstly, if possible, I like to get outdoors for some fresh air if I'm going to do some exercise - I spend enough time indoors. Then there's the mix of non-refundable up front payments, minimum subscriptions and all the tales of usage tailing off a month after you sign up. I know some gyms have emerged from the dark ages and offer more customer-friendly payment options now, but I've still always kept away. 
+
+But then recently I had to break that rule, out of necessity. I was running over some leaves and turned my ankle on a hidden bit of tree branch. I'd torn ligaments on this ankle a few years back, and should have known better, but I carried on to finish my run as it didn't hurt much at first. The next day I was reminded of the folly of listening to the mind instead of the body. So I had to stop running for a while, but had a marathon coming up and felt that need to keep doing something. Reluctantly venturing into the alien environs of a gym was my punishment - desperate times, desperate measures.
+ 
+This one was pay-as-you go so at least I wasn't making a commitment. As I sat on a cycle machine in a dingy basement there were pictures on the wall of a park, the one that is literally just over the road. I paid my dues and haven't been back since.
  
 
  
@@ -118,15 +117,8 @@ https://www.flickr.com/photos/demandaj/4648807772/ - too small? Try resizing?
 https://www.flickr.com/photos/airiarunning/25954944983/ - should work
 
 
-
-
-
-​
-
-
 # pre-race chat
 Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
-
 
 
 
