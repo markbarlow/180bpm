@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: Breaking the no gym rule
 subheading: Desperate times, desperate measures
-excerpt: For years I have kept to an unwritten rule of never joining a gym. Circumstances forced me to revisit that
+excerpt: For years I kept to an unwritten rule of never joining a gym. Circumstances forced me to revisit that
 heroimage: blog-gym.png
 ---
 
