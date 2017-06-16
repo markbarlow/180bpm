@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: I'm running in the rain
 subheading: Just running in the rain, what a glorious feeling, I'm happy again
-excerpt: Just running in the rain... let's not pretend it's easy getting out of the house when it's raining. But if you do, the rewards are all yours.
+excerpt: Just running in the rain... let's not pretend it's easy getting out of the house when it's raining. But if you do, the rewards are all yours
 heroimage: blog-rain.png
 ---
 
