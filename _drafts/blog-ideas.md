@@ -101,6 +101,16 @@ socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neut
 
 
 
+# nimbus 16 adieu
+
+Adieu and farewell to you fair Nimbus trainees
+Viking burial
+Liked them so much I bought the company. Well I'm not quite at that level of wealth so for me it was a case of I liked them so much I bought two
+500 miles debunked. I was naturally suspicious that such a round number could only be the work of marketing departments. If it were 477 miles, or 618 miles, I might have bought it for a bit longer.
+This fine pair have done, to my reckoning, at least 1,000 miles and more likely closer to 1,500. They did my first ever half marathon, and most of my lunchtime runs for two and a half years. 
+Yes, they're ugly, but this is a good case of not judging a book by its cover. I have become quite attached to them.
+
+
 
 
 # pre-race chat
@@ -121,7 +131,6 @@ Barcelona shore sun is rising (notes on phone)
 # more gear - the fitbelt
 
 Compare entry-level Karrimor
-
 Doesn't stay on the hip, but doesn't bounce
 6 energy gels, 2 in the pouch plus flapjacks
 small card/money pocket
