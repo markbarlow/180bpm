@@ -100,28 +100,6 @@ shoe reviews
 socks do they make a difference; shoes - nimbus 16 and DS trainer 21 ok for neutral;
 
 
-
-# nimbus 16 adieu
-
-
-Farewell and adieu to you fair Nimbus trainees
-Viking burial
-
-
-<a href="https://en.wikipedia.org/wiki/Victor_Kiam">Victor Kiam</a>
-
-The asics Nimbus 16 were my first pair of 'proper' running shoes. 
-Liked them so much I bought the company. Well I'm not quite at that level of wealth so for me it was a case of I liked them so much I bought two
-
-500 miles debunked. I was naturally suspicious that such a round number could only be the work of marketing departments. If it were 477 miles, or 618 miles, I might have bought it for a bit longer.
-This fine pair have done, to my reckoning, at least 1,000 miles and more likely closer to 1,500. They did my first ever half marathon, and most of my lunchtime runs for two and a half years. 
-Yes, they're ugly, but this is a good case of not judging a book by its cover. I have become quite attached to them.
-
-
-* Sorry, I couldn't resist - to make it up to any sea shanty lovers, here's the legendary Robert Shaw as <a href="https://www.youtube.com/watch?v=yrpmv_zOa0k">Quint, singing the real lyrics</a> 
-
-
-
 # pre-race chat
 Blog - swim in your own lane. One upmanship. Always someone faster. Talent training attitude priorities time mix. Not just competitors though . The oh conversation before Maidenhead half - he didn't want to hear that. Neither did I.
 
