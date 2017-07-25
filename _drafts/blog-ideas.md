@@ -16,7 +16,13 @@ Image size:
 Twitter center:
 class="twitter-tweet tw-align-center"
 
-Inline image code (no tabs or else it gets treated as MarkDown) - 800w good for landscape to fill:
+
+Youtube embed center:
+<div class="youtube-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/yrpmv_zOa0k" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+Inline image code (no tabs or else it gets treated as MarkDown) - 800w good for landscape to fill, anthing from 500 to 700h works for portrait:
 <img class="img-responsive" src="/img/XXXX.jpg" alt="XXX">
 <span class="caption text-muted">XXX</span>
 
