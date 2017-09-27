@@ -7,7 +7,7 @@ heroimage: blog-rain.png
 ---
 
 
-<p>In my last post I was waxing lyrical about the positive sides to going running in the rain. That's all well and good, I hear you say, but tell me about the gear!</p>
+<p>In my last post I was waxing lyrical about <a href="{{ site.baseurl }}{% post_url 2017-9-27-running-in-the-rain %}">the positive sides to going running in the rain</a>. That's all well and good, I hear you say, but tell me about the gear!</p>
 
 <p>Let's start with the importance of terminology. The experienced among you may have known this for years, but for me this was a revelation: while the difference in wording between "water resistant" and "waterproof" seems minor, the difference in reality is significant. And as with most running items, you can start out by making do but will soon heed the siren call of the upmarket options.</p>
 
