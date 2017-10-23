@@ -62,9 +62,33 @@ Images for inline, not for hero:
 -----
 
 
+# click bait for sponsorship
+
+you won't believe what he looks like now
+
+young pic > old pic
+
+fancy dress, check:
+ageing
+balding
+wrinkly
+Yoda
+
+
+
+
 # books
 
 murakami review
+
+
+# switching half to full training
+
+the ratchet
+
+when in the long slow slog of marathon, dream of shorter faster paced runs
+when in the pain of a faster paced run or intevral, dream of more relaxed longer runs
+But by the end of one programme you're about ready for the other
 
 
 
