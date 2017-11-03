@@ -62,18 +62,21 @@ Images for inline, not for hero:
 -----
 
 
-# click bait for sponsorship
+# click bait for sponsorship etc
 
 you won't believe what he looks like now
 
 young pic > old pic
 
+Why?
 fancy dress, check:
 ageing
 balding
 wrinkly
 Yoda
 
+
+Mmmm, London marathon will I run. Use the force I will. Sponsor me you will. Or Rt
 
 
 
