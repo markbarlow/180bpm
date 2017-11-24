@@ -142,6 +142,7 @@ Blog - swim in your own lane. One upmanship. Always someone faster. Talent train
 parkland walk, in two parts and the history as site of landspeed record (after drinks, 1 in morning, at time of Blair Witch and feeling suggestible). Talking Bluebird, not Bolt. This photo of parkland walk is great https://www.flickr.com/photos/barryj/3502677676/
 Liverpool prom
 Malaga docks and beach - I love a seaside one
+Malaga castle and coast
 Swansea also
 Hyde park loop 3 park loop
 Barcelona shore sun is rising (notes on phone)
