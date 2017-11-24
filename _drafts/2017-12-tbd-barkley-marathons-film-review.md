@@ -3,7 +3,7 @@ layout: 180blogpost
 title: The Barkley marathons film review
 subheading: The race that eats its young
 excerpt: xxx
-heroimage: blog-compass8.jpg
+heroimage: blog-compass6.jpg
 ---
 
 
