@@ -96,9 +96,9 @@
      
 
 
-<p>NB had to move 3 scripts to head to get this to work.</p>
+<p>NB had to move 3 scripts to head to get this to work - jquery, bootstrap core and custom theme.</p>
 
-<p>Todo: styling, sizing, positioning from top or bottom?, button style test</p>
+<p>Todo: positioning from top or bottom? If you want bottom - http://stackoverflow.com/questions/34164889/how-to-make-a-bootstrap-modal-fade-in-from-the-bottom</p>
 
 
 <button type="submit" class="btnblue btnblue-default">Download all the music<br><span class="btnsmalltext">12 mp3s in a 100 MB Zip file</span></button>
@@ -116,18 +116,14 @@
 <div class="container">
   <h2>Modal Options</h2>
   <p>The backdrop option specifies whether the modal should have a dark overlay (the background color of the current page) or not.</p>
-  <!-- Trigger the modal with a button -->
-  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button><br>
-  <A href="#myModal" data-toggle="modal">Try triggering with a link</A>
+  <!-- Trigger the modal with a button 
+  <button type="button" class="btn btn-info btn-md" id="myBtn">Modal with Overlay (backdrop:true)</button>
+-->
+ 
+  <a href="#myModal" data-toggle="modal">Trigger with a link</a>
 
    <Br>
-  Also check out modal-sm in styles, applied to div class = modal-dialog modal-sm
-
-    .modal-sm {
-    width: 300px;
-  }
  
- - add your own mid size? large is there too
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
@@ -136,7 +132,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Coffe donations - thank you!</h4>
+          <h4 class="modal-title">Coffee donations - thank you!</h4>
         </div>
         <div class="modal-body">
          <!-- new one -->
@@ -147,8 +143,11 @@
 
 <input type="hidden" name="on0" value="Pick a donation">Amount:<br> 
 <select name="os0">
-    <option value="Ten pence">Ten pence £0.10 GBP</option>
-    <option value="Twenty pence">Twenty pence £0.20 GBP</option>
+    <option value="Ten pence">Ten pence - £0.10 GBP</option>
+    <option value="Twenty pence">Twenty pence - £0.20 GBP</option>
+    <option value="Fifty pence">Fifty pence - £0.50 GBP</option>
+    <option value="£1">One pound - £1.00 GBP</option>
+    <option value="£2">Two pounds - £2.00 GBP</option>
 </select> 
 <p>
 <input type="hidden" name="currency_code" value="GBP">
@@ -161,7 +160,7 @@
 
 <hr>
 <!-- donate link instead -->
-<div><p>If you prefer, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
+<div><p>Or if you prefer, you can <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XC2KHR5XPEUMC">enter your own amount</a></p></div>
 
         </div>
         <div class="modal-footer">
@@ -180,12 +179,6 @@ $(document).ready(function(){
     $("#myBtn").click(function(){
         $("#myModal").modal({backdrop: true});
     });
-    $("#myBtn2").click(function(){
-        $("#myModal2").modal({backdrop: false});
-    });
-    $("#myBtn3").click(function(){
-        $("#myModal3").modal({backdrop: "static"});
-    });
 });
 </script>
 
@@ -202,23 +195,6 @@ $(document).ready(function(){
 
  
  
-
-<!-- GA -->
-  
-    <!-- Google Analytics -->
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-63444334-2', 'auto');
-        ga('send', 'pageview', {
-          'page': '/paypal-test',
-          'title': '180 steps per minute - paypal test'
-        });
-    </script>
-    <!-- End Google Analytics -->
 
 
 
