@@ -649,3 +649,16 @@ span a {
     text-align: center;
   }
  
+/* Override colors for this from bootstrap */
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+.alert-success hr {
+  border-top-color: #c9e2b3;
+}
+.alert-success .alert-link {
+  color: #2b542c;
+  text-decoration: underline;
+}
