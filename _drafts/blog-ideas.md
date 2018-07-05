@@ -22,7 +22,7 @@ Youtube embed center:
 </div>
 
 
-Inline image code (no tabs or else it gets treated as MarkDown) - 800w good for landscape to fill, anthing from 500 to 700h works for portrait:
+Inline image code (no tabs or else it gets treated as MarkDown) - 800w good for landscape to fill, anything from 500 to 700h works for portrait:
 <img class="img-responsive" src="/img/XXXX.jpg" alt="XXX">
 <span class="caption text-muted">XXX</span>
 
@@ -52,32 +52,57 @@ Font awesome icons in a list (http://fontawesome.io/icons/) - change or remove c
 Images not used yet:
 - blog-trees5 or trees6 with the head, depending on which goes better with text of given post
 - blog-primrose3-1 is the best, others too much sun and alternative photos too faded/don't crop
-- see other list for older ones like the DTS track ones not used yet
+- blog-wheat
+- blog-frostyleaves
+- see other list notes-on-images-fonts-audio.nmd for older ones like the DTS track ones not used yet
 
 Images for inline, not for hero:
 - blog-primrose2 did not crop but kept in case of inline use later (e.g. dawn run picture)
 - blog-primrose1 may be good small, wasn't good enough qual for hero
 - blog-primrose3-3 the sun obscures text when hero, nice pic though
 
+​
+
 -----
 
 
-# click bait for sponsorship etc
+# yoda / gwr blog
 
-you won't believe what he looks like now
-
-young pic > old pic
-
-Why?
+Why Yoda?
 fancy dress, check:
 ageing
 balding
 wrinkly
 Yoda
 
+time it took to make the gear and then just buy it
 
-Mmmm, London marathon will I run. Use the force I will. Sponsor me you will. Or Rt
+If at first you don’t succeed buy the official costume
 
+Tips:
+No mask
+Lightweight
+No club runners
+​
+
+# nutrition one
+
+It's time for a nutrition round up. This won't be exhaustive, but will save you the time I've taken squinting at labels and noting down the grammes.
+
+
+
+
+
+For snacks I'm looking for three things in particular:
+1. Low sugar
+2. Low cholesterol
+3. Natural taste
+
+
+# Edinburgh and the why of marathons
+
+Edinburgh- headache and why am I doing this? Hostel room champs league. Jeapordy the control the mental the unknown at 21, after 21; the early phase control, all the way to end the only knowledge that you have no knowledge, anything can happen. My first the shock at people waking and or totally stopping on last mile, my second understood that after lack control. Mental more than physical?
+​
 
 
 # books
@@ -145,8 +170,16 @@ Malaga docks and beach - I love a seaside one
 Malaga castle and coast
 Swansea also
 Hyde park loop 3 park loop
-Barcelona shore sun is rising (notes on phone)
 
+
+Barceloneta segment:
+Boardwalk
+Sail hotel western
+2 towers - Olympic? - look up road to see sagrada familia
+All way to forum
+Extra port arms
+Morning sunrise as facing east out to Med
+​
 
 
 # more gear - the fitbelt
