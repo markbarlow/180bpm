@@ -12,20 +12,20 @@
      1 (ticker couple without sufficient contrast for white text) - maybe for music artwork?
      8 (colourful ticker only) ok for subsidiary page / success page after got the picture of running but not as good as 1 which has feet too
 
-     blog-runner2.png is a beauty, dark with light patches
-     blog-tape1.png is another good tape one, not useed yet, credit to https://www.flickr.com/photos/areta_e/5727742070/
+     blog-runner2.png is a beauty, dark with light patches, used on first blog post
+     blog-tape1.png is another good tape one, not used yet, credit to https://www.flickr.com/photos/areta_e/5727742070/
 
      DTS1,2,3 all tried - DTS 3 is the winner for mobile centering reasons. DTS 2 is a spare option for any track related pages
 
      OK:
      jjvico65-5 (crowd legs barca) is ok but not as impactful as previous.
-     Maidenhead (currently in post.html) ok but not as sharp, could be for a blog post style one 
-
-    
+     Maidenhead (currently in post.html) ok but not as sharp, could be for a blog post style one
 
 
 
-    
+
+
+
 	#################   FONT AWESOME
 	 http://fontawesome.io/icons/
 	 Other nice font awesome options:
@@ -39,10 +39,8 @@
 
                         soundcloud! full track listing, this shrinks ok, but no option without listing
                         <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/66635&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-						
+
 
                          bandcamp artwork only, doesn't work as % as you don't know the proportion, original is 350px square, MH uses 230s
 
                         Your Bandcamp account comes with 200 downloads per month of tracks or albums that you’re giving away (meaning you’ve set them to free, or let-fan-name-price with no minimum and the fan enters zero). Reverts to paid once hit limit
-
-					    

@@ -50,10 +50,11 @@ Font awesome icons in a list (http://fontawesome.io/icons/) - change or remove c
 
 
 Images not used yet:
+- blog-woods-autumn1 and 2 and blog-woods-runner1 both from highgate wood (nothing special as hero image)
 - blog-trees5 or trees6 with the head, depending on which goes better with text of given post
 - blog-primrose3-1 is the best, others too much sun and alternative photos too faded/don't crop
-- blog-wheat
-- blog-frostyleaves
+- blog-wheat uncropped
+- blog-frostyleaves uncropped
 - see other list notes-on-images-fonts-audio.nmd for older ones like the DTS track ones not used yet
 
 Images for inline, not for hero:
@@ -67,6 +68,8 @@ Images for inline, not for hero:
 
 
 # yoda / gwr blog
+
+Photos from end Jan/Feb and early April (late adjustments, stickers etc)
 
 Why Yoda?
 fancy dress, check:
@@ -128,7 +131,7 @@ need vs want
 The triumvirate of Iffley Asics Ronhill
 The nostalgia of Ronhill
 Vest
-Trevis and the betting syndicate taking out a contender on the start line. Controlling the controllable limiting variables  - geography only answer if lppol played there 
+Trevis and the betting syndicate taking out a contender on the start line. Controlling the controllable limiting variables  - geography only answer if lppol played there
 Diving digression - limited pool of competitors. Lost fearless started thinking too much. Andrew 11 had a screw loose even before. Louganis. 2 weekends in sheffield at 16
 Trampolining tiring but soft
 Water can give you a bruise the size of a football
@@ -188,6 +191,3 @@ Compare entry-level Karrimor
 Doesn't stay on the hip, but doesn't bounce
 6 energy gels, 2 in the pouch plus flapjacks
 small card/money pocket
-
-
-
