@@ -93,20 +93,12 @@ No club runners
 It's time for a nutrition round up. This won't be exhaustive, but will save you the time I've taken squinting at labels and noting down the grammes.
 
 
-
-
-
 For snacks I'm looking for three things in particular:
 1. Low sugar
 2. Low cholesterol
 3. Natural taste
 
-
-# Edinburgh and the why of marathons
-
-Edinburgh- headache and why am I doing this? Hostel room champs league. Jeapordy the control the mental the unknown at 21, after 21; the early phase control, all the way to end the only knowledge that you have no knowledge, anything can happen. My first the shock at people waking and or totally stopping on last mile, my second understood that after lack control. Mental more than physical?
 ​
-
 
 # books
 
