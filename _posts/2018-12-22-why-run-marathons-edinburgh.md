@@ -1,0 +1,52 @@
+---
+layout: 180blogpost
+title: Edinburgh and the why of marathons
+subheading: Why? This is the why
+excerpt: A study in questioning why, and finding out why.
+heroimage: blog-edinburgh1.jpg
+---
+
+<p>There are times when we all ask: why am I doing this? It may be as you start a new training plan, it may be during a trough part way through the plan - or it might just be the night before the run you’ve spent so much time preparing for. At the Edinburgh marathon this year I experienced the latter. </p>
+
+
+<h2 class="section-heading">The day before</h2>
+
+<p>It's a four and a half hour journey on the train, something I would normally enjoy - especially with the East coast views. But I can't shift a malingering headache that's neither heavy nor light. It adds to a general sense of unease, and kick-starts the questioning and self-doubt. Why am I doing this again?</p>
+
+<p>In Edinburgh it's early evening and a short walk to the unconvincingly named "Safestay" hostel. Are they trying too hard? It has the air of a prison, my cell has bunks and a window but no view. I sit on the bed, head bent beneath the upper bunk, wishing I was at home with the family. Why am I doing this again? Getting my kit out only reminds me of the effort and pain awaiting tomorrow. Why was it I signed up for another? Do I really need to put myself through this?</p>
+
+<p>I go down and check whether tomorrow's pre-booked breakfast will include porridge, my favoured pre-marathon fuel. It will, so I don’t cancel it and won’t need the microwaveable pot I’ve brought with me just in case. This is Scotland after all, and they know their porridge oats. To occupy my mind I go to the bar to watch the Champions League final, Liverpool v Real Madrid. It's no surprise of course that the locals are rooting for Real Madrid. Even though the only Scottish person playing is Liverpool's Andy Robertson. Tribal passions beat away any logic, and their wish is Gareth Bale's command.</p>
+
+<h2 class="section-heading">The morning</h2>
+
+<p>At breakfast I can’t see any porridge so ask. It’s just coming. I imagine a cauldron full of the stuff, bubbling and thick, to set me up perfectly. Three minutes later out comes the chef with his arms full of microwaveable porridge pots. Oh well. I grab one, fill it with hot water and retire defeated. £6 for that? When leaving I try to claw back victory by picking up a couple of bananas. It makes me feel marginally better, but I know who won this round.</p>
+
+<h2 class="section-heading">The start</h2>
+
+<p>At least it’s time now and a short walk to the start area. Choosing to visit the toilet before the bag drop is the right decision and just beats the sudden swelling of the queue. Things are looking up! And the start area is not too manic, it’s low-key even once away from the bag vans. I appreciate the relative quiet of a side street. This last hour is always testing though, quiet or not. Why was it I..?</p>
+
+<p>I do a bit of stretching and warming up then head into the starting pen. Time to hang the disposable top on the railing. This charity shop jacket is a bona fide survivor - at both the <a href="{{ site.baseurl }}{% post_url 2017-3-31-a-tale-of-two-marathons %}">Thames meander</a> and the <a href="{{ site.baseurl }}{% post_url 2017-4-13-doubling-up-back-to-back-marathons %}">Boston (not that one) marathon</a> it was there for collection at the end - but I rightly suspect that this time it's goodbye. My right shoe feels tighter than the left. I untie the lace then try tying it more loosely. Sip of water. Another sip. Untie the lace, tie the lace. Put the water on the side. Mouth’s gone dry, retrieve it for a bit more. Stretch some more. That right shoe still doesn’t feel right. Untie the lace, tie the lace. Put the water on the side. We're off!</p>
+
+<h2 class="section-heading">The marathon</h2>
+
+<p>And now it starts to make sense as the tension dissipates. The bunching eases and the initial short, steep climbs and longer drops are negotiated as we leave the centre behind. The mist is clearing on Arthur’s mount, revealing a beautifully glowing, light green hillside wet with drizzle. In a few miles the sea appears out of nowhere, introducing a promenade run in salty air beside the waves and foam. The pace settles and an illusory sense of control descends - yet I'm fully aware by now that the only knowledge you have is that you have no knowledge. It doesn't matter how good it feels in the present moment, anything can happen. All the way to the very end.</p>
+
+<p>And there's my overriding reason why. That jeopardy. That’s the essence of it, the secret that keeps drawing me back. You’ve gone up to 20 or so miles in training but not the full distance and, seasoned or not, you can’t be sure what will happen. People talk of the first 20 miles being the physical marathon and the last 6 being the mental marathon, but the mental part starts much sooner in truth. You need your wits about you to control your pace, keep your rhythm, not get carried away. You learn that feeling great early on is nothing to depend on, it’s too early to tell. Come what may, it won’t feel like that around mile 21. Or the home straight. When I did my first marathon I couldn't believe people were stopping within sight of the finish, some to walk, some to retire definitively. My second marathon taught me the price of an excessively fast first half, so I understand that now.</p>
+
+ <p>Then there’s the no man’s land, those stretches you can’t place somehow, a precursor to some other transition or cardinal marker.  Miles 6 to 8, miles 14 to 16, floundering a while before you reach your next milestone.  The mental part is not just about keeping tabs on the physical, it’s about coping with this uncertainty and the ups and downs along the way. Above all the downs - the flagging, the doubts that creep in, the desire and commitment that creeps out.  26.2 miles of jeopardy. And let's rewind further. The mental marathon is also those 3 or 4 months of training. The times it's cold and wet, or you're tired, or have a slight strain. Keeping going, not giving up.</p>
+
+<h2 class="section-heading">The small moments</h2>
+
+<p>Then there’s the small moments that decorate the race, that stand out from the blur.</p>
+
+<p>The Grandma sat outside her house, blanket on lap, holding a sign saying "This is a sign". You can imagine the family discussion, “Come on Grandma, get in the spirit of it, you’ve got to have a sign”. After some resistance she finally agrees, as long as she gets to write her own. And here’s her inspired, curmudgeonly victory - complying with the younger generation while simultaneously sticking two fingers up to them. Aye, "This is a sign" y'fuckers.</p>
+
+<p>The strapping tanned man raising his arms aloft as he spots a photographer ahead at the side of the road. The same photographer who will studiously ignore him, pointedly directing his camera elsewhere. The strapping tanned man whose arms will then sink slowly down.</p>
+
+<p>The lone bagpiper, blasting away next to a woman with one of those “Tap me for extra power” signs. Which will prevail, the pull of the sign or the push of the pipes? This time, the sign wins.</p>
+
+<p>Then there's the finish. There's camaraderie. There's celebration. There's food and drinks without concern. Good chance there's runner's high. Even in disappointment there's achievement and some satisfaction to be found. The end is, of course, always a fantastic moment and seen as the pinnacle. You've tested the limits: sometimes for the better, with a satisfying surprise about your capacity for pace, for distance, for pain, or all three; sometimes for the worse, with a chastening injury or blow-out which teaches you something for next time. Back on the horse. And regardless of outcome, you know you’ve tried something out of the ordinary, you’ve pushed yourself. You’ve had a bruising encounter but, yes, in a way you've reached for the stars.</p>
+
+<h2 class="section-heading">Jeopardy is King</h2>
+
+<p>Each run has its share of these moments that come back to you afterwards, which mean something and stay with you. But for me, the why of marathons is about the jeopardy that comes before that finish line is crossed. A jeopardy with so many different faces, so many different angles of attack. It's good to have got the answers to its questions this time, but what will the answers be next time?</p>
