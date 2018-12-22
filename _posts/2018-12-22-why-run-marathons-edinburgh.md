@@ -2,7 +2,7 @@
 layout: 180blogpost
 title: Edinburgh and the why of marathons
 subheading: Why? This is the why
-excerpt: A study in questioning why, and finding out why.
+excerpt: Getting through the doubts about marathons - the questioning why, and the finding out why.
 heroimage: blog-edinburgh1.jpg
 ---
 
